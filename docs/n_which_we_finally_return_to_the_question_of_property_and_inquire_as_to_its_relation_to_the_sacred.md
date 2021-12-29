@@ -26,7 +26,7 @@ p 155
 
 - you know “the prevailing view that human beings lived more or less like Kalahari Bushmen, until the invention of agriculture sent everything askew”
 - well, that's now disproven
-	- **agriculture not necessary for non-[immediate return hunter-gatherers](immediate%20return%20hunter-gatherers)**
+	- **agriculture not necessary for non-[immediate return hunter-gatherers](immediate%20return%20hunter-gatherers.md)**
 		- Pleistocene mammoth hunters
 		- period following glacial retreat
 			- new societies form on resource-rich areas
@@ -47,7 +47,7 @@ p 155
 
 [James Woodburn](James%20Woodburn.md)
 
-- rule in these [immediate return hunter-gatherers](immediate%20return%20hunter-gatherers): no adult should give orders to another
+- rule in these [immediate return hunter-gatherers](immediate%20return%20hunter-gatherers.md): no adult should give orders to another
 - an exception: in the sphere of ritual / the sacred
 	- example: Hadza religion, gender initiation cults: exclusive claims to ownership (ritual privileges) (Intellectual Property lol)
 	- protected by secrecy, deception, threat of violence

@@ -17,4 +17,4 @@ date_modified: 2021-12-23 12:15:50
 
 # Diffusion Against Centralization
 
-author: [Lewis Henry Morgan](Lewis%20Henry%20Morgan)
+author: [Lewis Henry Morgan](Lewis%20Henry%20Morgan.md)

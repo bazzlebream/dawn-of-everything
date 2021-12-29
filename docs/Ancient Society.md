@@ -21,4 +21,4 @@ date_modified: 2021-12-27 02:43:28
 
 contributors:
 
-- [Lewis Henry Morgan](Lewis%20Henry%20Morgan)
+- [Lewis Henry Morgan](Lewis%20Henry%20Morgan.md)
