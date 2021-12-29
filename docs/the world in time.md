@@ -1,7 +1,7 @@
 # the world in time
 source: [David Wengrow | Lapham’s Quarterly](https://www.laphamsquarterly.org/content/david-wengrow)
 
-talk between [Wengrow, David](david%20wengrow.md) and [[lapham_lewis_h]]
+talk between [Wengrow, David](david_wengrow.md) and [[lapham_lewis_h]]
 
 [DW]
 - standard story is told everywhere but anthro and archaeology
@@ -19,7 +19,7 @@ talk between [Wengrow, David](david%20wengrow.md) and [[lapham_lewis_h]]
 		- increased complexity
 		- implies hierarchy
 		- loss of primordial freedoms
-		- more and more tied in to "agrarian states" of Eurasia, since [[Bronze Age]] up to [Middle Ages](Middle%20Ages.md)
+		- more and more tied in to "agrarian states" of Eurasia, since [[Bronze Age]] up to [Middle Ages](Middle_Ages.md)
 		- finally transition to industrial capitalism, then finance capitalism
 - DG and DW try to show that if one includes scientific findings of anthro and archae, almost nothing about this story is true
 - [LHL] what's the timeline?
@@ -92,11 +92,11 @@ talk between [Wengrow, David](david%20wengrow.md) and [[lapham_lewis_h]]
 - [LHL] kondiaronk and indigenous critique ("candy rock")
 	- [DW] let me explain why we talk about him
 		- framing of whole book
-		- to go beyond [Standard Narrative of Human History](Standard%20Narrative%20of%20Human%20History.md), we had to understand its roots, and roots of the **question**, what are the origins of social inequality
+		- to go beyond [Standard Narrative of Human History](Standard_Narrative_of_Human_History.md), we had to understand its roots, and roots of the **question**, what are the origins of social inequality
 			- even framing things in that way was trapping us in certain modes of thought
 			- already assumption that there was a primordial, universal society of equals
 			- traced idea to roots, begins with European philosophers in Englightenment discussing eastern americas
-			- almost impossible to understand roots of story of [social evolution](social%20evolutionism.md) without understanding those encounters
+			- almost impossible to understand roots of story of [social evolution](social_evolutionism.md) without understanding those encounters
 			- [[indigenous critique]] was fairly consistent, made by inhabitants from upstate new york and norther
 				- cutting observations about European morality, ethics, religion, behavior, 
 				- recorded by Jesuit missionaries
@@ -119,12 +119,12 @@ talk between [Wengrow, David](david%20wengrow.md) and [[lapham_lewis_h]]
 						- one of most influential cases: [[Letters from a Peruvian Woman]]
 							- fictitious inca princess: Zilia
 					- [[Ronald Meeks]] [[Social sciences and the ignoble savages]]
-						- in many ways our conventional story of social evolution was invented as a riposte, or conservative , to the subversive potential of the [indigenous critique](indigenous%20critique.md)
+						- in many ways our conventional story of social evolution was invented as a riposte, or conservative , to the subversive potential of the [indigenous critique](indigenous_critique.md)
 						- (remember this was an explosive time)
 					- [[Turgot]], a budding economist, writes letter to [[Madame Graffigny]] to withdraw from radical criticism of European society, and especially the idea that you could have a large, sophisticated society without radical inequality
 						- "this is naive, could be catastrophic, could end up with totalitarian socialism!"
 					- [[Graffigny]] ignores him, publishers her dialoges
-					- [[Turgot]] then writes essays which present the [Standard Narrative of Human History](Standard%20Narrative%20of%20Human%20History.md) pretty much, which places x on modes of production
+					- [[Turgot]] then writes essays which present the [Standard Narrative of Human History](Standard_Narrative_of_Human_History.md) pretty much, which places x on modes of production
 						- doesn't feature much in earlier thought
 						- taken up by [[Adam Smith]]
 						- [[Turgot]] effective in neutralizing indigenous critique

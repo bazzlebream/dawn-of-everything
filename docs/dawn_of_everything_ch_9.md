@@ -58,7 +58,7 @@ highland
 			- angular blocks
 			- tight fits
 		- celebrates community as a whole and its collective values
-		- conscious cultural inversion (aka [[schismogenesis]] , according to [Esther Pasztory](Esther%20Pasztory.md)
+		- conscious cultural inversion (aka [[schismogenesis]] , according to [Esther Pasztory](Esther_Pasztory.md)
 			- new tradition of art created to express difference
 			- rejects
 				- visual trope of ruler and captive

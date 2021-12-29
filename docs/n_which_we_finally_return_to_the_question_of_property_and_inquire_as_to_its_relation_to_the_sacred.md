@@ -26,7 +26,7 @@ p 155
 
 - you know “the prevailing view that human beings lived more or less like Kalahari Bushmen, until the invention of agriculture sent everything askew”
 - well, that's now disproven
-	- **agriculture not necessary for non-[immediate return hunter-gatherers](immediate%20return%20hunter-gatherers.md)**
+	- **agriculture not necessary for non-[immediate return hunter-gatherers](immediate_return_hunter-gatherers.md)**
 		- Pleistocene mammoth hunters
 		- period following glacial retreat
 			- new societies form on resource-rich areas
@@ -45,9 +45,9 @@ p 155
 
 ## section break
 
-[James Woodburn](James%20Woodburn.md)
+[James Woodburn](James_Woodburn.md)
 
-- rule in these [immediate return hunter-gatherers](immediate%20return%20hunter-gatherers.md): no adult should give orders to another
+- rule in these [immediate return hunter-gatherers](immediate_return_hunter-gatherers.md): no adult should give orders to another
 - an exception: in the sphere of ritual / the sacred
 	- example: Hadza religion, gender initiation cults: exclusive claims to ownership (ritual privileges) (Intellectual Property lol)
 	- protected by secrecy, deception, threat of violence
@@ -86,7 +86,7 @@ this parallel leads to: weird European social thought ([[possessive individualis
 
 - this absolute, sacred quality in private property as a paradigm for all human rights and freedoms
 	- you "own" your body and legally can exclude others
-- (unlike [free societies](free%20societies.md))
+- (unlike [free societies](free_societies.md))
 
 consequences:
 
@@ -97,7 +97,7 @@ consequences:
 *mostly in the world, owning means nurturing, too; except in roman law where owning just means being able to destroy it (and the caring part is eliminated)*
 
 - Native American societies mostly found this an alien way of looking at things
-- however, when it did apply, it was to sacred objects (or [Robert Lowie's term 'sacra'](Robert%20Lowie%20sacra.md)), which were "individually owned and jealously guarded"
+- however, when it did apply, it was to sacred objects (or [Robert Lowie's term 'sacra'](Robert_Lowie_sacra.md)), which were "individually owned and jealously guarded"
 
 so [^1]
 
@@ -136,7 +136,7 @@ theme: [[behavior in ritual contexts takes exactly the opposite form to the free
 - only within such contexts that exclusive (sacred) forms of property exist, "strict and top-down hierarchies are enforced, and orders given are dutifully obeyed"
 
 suggest:
-- carefully co-ordinated ritual theatres (geometric precision) were kinds of places where exclusive claims to property rights (and obedience) were made, among "otherwise [free people](free%20societies.md)"
+- carefully co-ordinated ritual theatres (geometric precision) were kinds of places where exclusive claims to property rights (and obedience) were made, among "otherwise [free people](free_societies.md)"
 - (implied) but here (logical similarities of privae property and sacred) it's circumscribed in one area
 - big question: how did it order **so many other** aspects of human affairs
 

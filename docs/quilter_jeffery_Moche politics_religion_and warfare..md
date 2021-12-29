@@ -27,5 +27,5 @@ contributors:
 
 ![](https://i.imgur.com/jAtZueB.png)
 <!--
-![source](quilter_jeffrey_Moche%20Politics_Religion_and%20Warfare.pdf)
+![source](quilter_jeffrey_Moche_Politics_Religion_and_Warfare.pdf)
 -->

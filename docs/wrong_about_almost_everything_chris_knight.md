@@ -26,7 +26,7 @@ date_modified: 2021-12-22 03:41:10
 			- why did we get stuck in that oppression one
 	- political instincts and social emptions that define our humanity wre shaped under conditions of egalitarianism
 
-[his revolution theory](his%20revolution%20theory.md)
+[his revolution theory](his_revolution_theory.md)
 
 ## point by point
 
@@ -35,11 +35,11 @@ Once an egalitarian social structure was produced, even though humans are experi
 
 > G&W oppose the whole idea that our hunter-gatherer ancestors were egalitarians. In their view, they would just as likely have chosen to be oppressed.[^2]
 
-CK arrives at this view in part by interpreting [“WHY EVEN VERY SOPHISTICATED RESEARCHERS STILL FIND WAYS TO CLING TO THE IDEA THAT SOCIAL INEQUALITY HAS AN ‘ORIGIN”](dawn_of_everything_graeber_wengrow.md#“WHY%20EVEN%20VERY%20SOPHISTICATED%20RESEARCHERS%20STILL%20FIND%20WAYS%20TO%20CLING%20TO%20THE%20IDEA%20THAT%20SOCIAL%20INEQUALITY%20HAS%20AN%20‘ORIGIN”)
+CK arrives at this view in part by interpreting [“WHY EVEN VERY SOPHISTICATED RESEARCHERS STILL FIND WAYS TO CLING TO THE IDEA THAT SOCIAL INEQUALITY HAS AN ‘ORIGIN”](dawn_of_everything_graeber_wengrow.md#“WHY_EVEN_VERY_SOPHISTICATED_RESEARCHERS_STILL_FIND_WAYS_TO_CLING_TO_THE_IDEA_THAT_SOCIAL_INEQUALITY_HAS_AN_‘ORIGIN”)
 
-DoE essentially attempt to discredit[^5] Boehm's revolution theory (an "abstract" version of Knight's own [Blood Relations. Menstruation and the origins of culture](Blood%20Relations.%20Menstruation%20and%20the%20origins%20of%20culture.md))
+DoE essentially attempt to discredit[^5] Boehm's revolution theory (an "abstract" version of Knight's own [Blood Relations. Menstruation and the origins of culture](Blood_Relations._Menstruation_and_the_origins_of_culture.md))
 
-CK's paraphrase of [boehm_christopher](boehm_christopher.md)'s points in Boehm's [Hierarchy in the forest. The evolution of egalitarian behavior](Hierarchy%20in%20the%20forest.%20The%20evolution%20of%20egalitarian%20behavior.md)
+CK's paraphrase of [boehm_christopher](boehm_christopher.md)'s points in Boehm's [Hierarchy in the forest. The evolution of egalitarian behavior](Hierarchy_in_the_forest._The_evolution_of_egalitarian_behavior.md)
 
 - earliest ancestors weren't completely[^6] cooperative or competitive
 	- what they *were* was disposed to dominate some ("others") while allying with some ("not others") to resist being dominated
@@ -70,7 +70,7 @@ so far:
 ### the teatime of everything
 - CK: DoE claims that Darwinism is pure myth
 	- ZW: I can't find this claim, other than a footnote • [^10] The point of the footnote seems to be that Darwinism did not establish the "timescale" of human prehistory, not that Darwinism as a theory is a myth[^11]
-- CK: Whatever they may have to say about [social evolutionism](social%20evolutionism.md), it should not automatically apply to [[modern evolutionary theory]]
+- CK: Whatever they may have to say about [social evolutionism](social_evolutionism.md), it should not automatically apply to [[modern evolutionary theory]]
 - CK: any theory of human origins should (at least) acknowledge evolutionary theory
 	- (ZW: CK's unstated premise?: DoE is trying to articulate, or at least use, a theory of human origins, in what they are doing)
 	- CK: DoE does not acknowledge evolutionary theory
@@ -112,7 +112,7 @@ CK concessions
 - Readers interested in Mesolithic and Neolithic archaeology will find plenty of intriguing speculations in this book.
 
 CK goes on:
-- instead of engaging with Darwinism, DoE instad bring up [[Sarah Hrdy]]'s [theory](Mothers%20and%20others.md)  about how childcare shaped human instincts and psychology
+- instead of engaging with Darwinism, DoE instad bring up [[Sarah Hrdy]]'s [theory](Mothers_and_others.md)  about how childcare shaped human instincts and psychology
 - they critique Hrd's theory by saying it's partial
 - their fallacy: they ignore the fact that Hrdy's work is focused on emergence of Homo genus 2 million years before common mitochondrial DNA ancestor
 - their goal: undermine the idea that human origins[^9] research is worth pursuing at all
@@ -133,9 +133,9 @@ transition: archaeology gets interesting here, to DoE
 
 ## Tiny hunter-gatherer bands
 
-[tiny hunter gatherer bands](tiny%20hunter%20gatherer%20bands.md)
+[tiny hunter gatherer bands](tiny_hunter_gatherer_bands.md)
 
-[Wealth inequalities not OK](Wealth%20inequalities%20not%20OK.md)
+[Wealth inequalities not OK](Wealth_inequalities_not_OK.md)
 
 [[In the beginning … private property]]
 

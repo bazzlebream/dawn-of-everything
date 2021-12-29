@@ -14,4 +14,4 @@ date_modified: 2021-12-27 11:21:06
 
 West Indian sociologist
 
-[theory of Roman Law property and freedom tracing back to slave law](theory%20of%20Roman%20Law%20property%20and%20freedom%20tracing%20back%20to%20slave%20law.md)
+[theory of Roman Law property and freedom tracing back to slave law](theory_of_Roman_Law_property_and_freedom_tracing_back_to_slave_law.md)

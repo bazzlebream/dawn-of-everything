@@ -14,4 +14,4 @@ date_modified: 2021-12-23 09:51:14
 
 # Dunbar's threshold
 
-[Robin Dunbar](Robin%20Dunbar.md)
+[Robin Dunbar](Robin_Dunbar.md)

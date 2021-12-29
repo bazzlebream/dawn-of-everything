@@ -51,7 +51,7 @@ unfortunately evolutionism catches on
 
 - **by late 1800s**, clear that Turgot's sequence wasn't true
 	- but, Darwin's theories = evolutionism is only approach to history given credence
-		- [Lewis Henry Morgan](Lewis%20Henry%20Morgan.md)'s [Ancient Society](Ancient%20Society.md)
+		- [Lewis Henry Morgan](Lewis_Henry_Morgan.md)'s [Ancient Society](Ancient_Society.md)
 		- Marxists, simlar
 		- (these unworkable too, thrown out)
 - **1950s**: neo-evolutionist theory (based on efficiency of "harvesting" energy from environment)
@@ -658,7 +658,7 @@ G&W: unlikely! [ • • •] because, let's talk about witchcraft
 
 [^1]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md)
 [^2]: p 441
-[^3]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md) quotes [James C Scott](James%20C%20Scott.md)
+[^3]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md) quotes [James C Scott](James_C_Scott.md)
 [^4]: p 447
 [^5]: Seeman, Mark F —. 2004. ‘Hopewell art in Hopewell places.’ In Richard F. Townsend and Robert V. Sharp (eds), Hero, Hawk, and Open Hand: American Indian Art of the Ancient Midwest and South. New Haven, CT and London: Yale University Press, pp. 57–71.
 [^6]: p 467, note is out of order w/r/t text

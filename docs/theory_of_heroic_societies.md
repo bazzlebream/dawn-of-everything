@@ -16,7 +16,7 @@ date_modified: 2021-12-24 09:03:56
 
 contributors:
 
-- [Hector Munro Chadwick](Hector%20Munro%20Chadwick.md)
+- [Hector Munro Chadwick](Hector_Munro_Chadwick.md)
 
 > Here we have the very beginnings of an aristocratic ethos with a long afterlife and some wide ramifications in the history of Eurasia (something we touched on earlier, when alluding to Herodotus’ account of the Scythians, and Ibn Fadlan’s later observations on the ‘barbarian’ Germanic tribes of the Volga). We are witnessing the first known emergence of what Hector Munro Chadwick famously called ‘heroic societies’ and, moreover, these societies all seem to have emerged just where his analysis tells us to expect them: on the margins of bureaucratically ordered cities.
 

@@ -57,7 +57,7 @@ The things he lists ("_not_ for sale, _not_ to be privatized, _not_ to be claime
 
 "claiming that the concept of ‘private property’ emerged inseparably from the very idea that _some things are sacred_ "
 - first, they say "it's as old as", and aren't sure it has an origin ("“If private property has an ‘origin’, it is as old as the idea of the sacred, which is likely as old as humanity itself.”[^2]
-- it's not that some things are sacred, it's that the creation or reproduction of sacredness involves violence, which even [free people](free%20societies.md.md) will do and ...
+- it's not that some things are sacred, it's that the creation or reproduction of sacredness involves violence, which even [free people](free_societies.md.md) will do and ...
 
 not sure how to argue this
 

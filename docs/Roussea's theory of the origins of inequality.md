@@ -20,4 +20,4 @@ date_modified: 2021-12-23 09:40:39
 > Rousseau might’ve agreed with Kondiaronk, had they ever met, about the virtues of freedom. But only Kondiaronk would’ve had any clue about what that actually looks like in practice.[^2]
 
 [^1]: [The dawn of everything](dawn_of_everything_graeber_wengrow.md) p 127
-[^2]:  [David Wengrow](david%20wengrow.md), [No, Large-Scale Societies Don’t Need Massive Inequalities](No%20Large-Scale%20Societies%20Don’t%20Need%20Massive%20Inequalities.md)
+[^2]:  [David Wengrow](david_wengrow.md), [No, Large-Scale Societies Don’t Need Massive Inequalities](No_Large-Scale_Societies_Don’t_Need_Massive_Inequalities.md)

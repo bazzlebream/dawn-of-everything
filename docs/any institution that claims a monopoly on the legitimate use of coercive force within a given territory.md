@@ -10,7 +10,7 @@ date_modified: 2021-12-25 02:43:16
 ---
 
 # any institution that claims a monopoly on the legitimate use of coercive force within a given territory
-- [Rudolf von Ihering](Rudolf%20von%20Ihering.md)'s definition of "the state"; since, identified with [[Max Weber]]
+- [Rudolf von Ihering](Rudolf_von_Ihering.md)'s definition of "the state"; since, identified with [[Max Weber]]
 
 > On this definition, a government is a ‘state’ if it lays claim to a certain stretch of land and insists that, within its borders, it is the only institution whose agents can kill people, beat them up, cut off parts of their body or lock them in cages; or, as von Ihering emphasized, that can decide who else has the right to do so on its behalf.[^1]
 

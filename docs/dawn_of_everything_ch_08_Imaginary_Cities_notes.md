@@ -258,7 +258,7 @@ but how did they come together to form the concentric arrangements
 	- sometimes the groups become neighborhoods (wedge-shaped)
 	- sometimes so large as to form districts or "quarters"
 	- each (neighborhood) access to:
-		- relatively large assembly house for gathering ([John Chapman](John%20Chapman.md) notes they don't have food-prep areas or tools)
+		- relatively large assembly house for gathering ([John Chapman](John_Chapman.md) notes they don't have food-prep areas or tools)
 - [zw exim] it's really the uniformity we need to explain, not the deviation
 	- rose from bottom up, through "local decision-making"
 	- strongly implies: house members or representatives shared conceptual framework
@@ -335,7 +335,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 <!-- ![](ch8_summary.md#^41db1d) -->
 
-- basic elements of Mesopotamian civic life and urban society began before the [Early Dynastic period](Early%20Dynastic.md)]
+- basic elements of Mesopotamian civic life and urban society began before the [Early Dynastic period](Early_Dynastic.md)]
 	- (some of these were wrongly characterized as "inventions of royal statecraft", ie attributed to monarchies)
 	- elements:
 		- labor mobilization / [[early mesopotamian corvee]] (attributed to monarchy, but actually already very ancient, as the gods created people for this according to [[Atrahasis flood myth]]), where all contributed
@@ -359,7 +359,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 - looking at "[[the idea Mesopotamia possessed a primitive democracy]]"
 	- first proposed by [[Thorkild Jacobsen]] in 1940s, and since extended
-	- however, his "district councils and assemblies of elders" exist in tons of places, right down to the [Early Dynastic](Early%20Dynastic.md) period (zw: not just in the early, primitive times of history)[^6]
+	- however, his "district councils and assemblies of elders" exist in tons of places, right down to the [Early Dynastic](Early_Dynastic.md) period (zw: not just in the early, primitive times of history)[^6]
 	- however, we don't know how they actually functioned
 
 - wards were active in administration
@@ -461,7 +461,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 <!-- ![](ch8_summary.md#^fc5536) -->
 
-[main page](Uruk%20Expansion.md)
+[main page](Uruk_Expansion.md)
 
 - #term [[Uruk Expansion]] (term in archae) / colonial process
 - (don't know how trade organized yet)
@@ -588,7 +588,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 		- ascending scale of purity
 	- but
 		- caste not mentioned in South Asia until 1000 years later in [[Rig Veda]]
-			- [varna system](Rig%20Veda.md#varna%20system): highest value is purity of priestly caste
+			- [varna system](Rig_Veda.md#varna_system): highest value is purity of priestly caste
 			- you can't apply [[Gini coefficients]] or property-based measures of inequality to this, because the inequality is based on purity
 - caste system helps make sense of Mohenjo-daro's "puzzling features"
 	- puzzling feature: residential buildings that look like palaces are not located on Upper Citadel but crammed into Lower Town streets (where jostling for worldly status belonged)
@@ -729,7 +729,7 @@ not true just of cities, but kingdoms and empires
 	- political urban revolutions very common
 
 [^1]: “McIntosh, Roderick. 2005. Ancient Middle Niger: Urbanism and the Self-Organizing Past. Cambridge: Cambridge University Press.”
-    “McIntosh, Susan Keech. 2009. [Beyond Chiefdoms: Pathways to Complexity in Africa](Beyond%20Chiefdoms%20Pathways%20to%20Complexity%20in%20Africa.md). Cambridge: Cambridge University Press.”
+    “McIntosh, Susan Keech. 2009. [Beyond Chiefdoms: Pathways to Complexity in Africa](Beyond_Chiefdoms_Pathways_to_Complexity_in_Africa.md). Cambridge: Cambridge University Press.”
 [^2]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md) citing “[[Kirleis and Dal Corso 2016]].”
 [^3]: presumably the Latin noun, *populus*, meaning "people", since "populous" is only listed as an adjective in the OED
 [^4]: @ i'd like to know more about this

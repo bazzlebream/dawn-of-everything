@@ -18,4 +18,4 @@ date_modified: 2021-12-22 09:06:24
 Excerpt From
 The Dawn of Everything 
 David Graeber
-interpreting [James Woodburn](James%20Woodburn.md)
+interpreting [James Woodburn](James_Woodburn.md)

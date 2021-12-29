@@ -90,7 +90,7 @@ alternatives:
 **autonomy**
 - [Eleanor Leacock](leacock_eleanor.md)
 	- autonomy: make decisions without interference
-- DoE: so the value to be distributed equally ([universal equality standard](universal%20equality%20standard.md)) is "freedom"
+- DoE: so the value to be distributed equally ([universal equality standard](universal_equality_standard.md)) is "freedom"
 	- so we should call these "free societies", or "free people"
 - formal freedoms vs real freedoms
 	- Wendat had play chiefs and real freedoms
@@ -101,7 +101,7 @@ alternatives:
 - hierarchies can emerge, but if they are theatrical, or confined to limited aspects of social life, you could still say "egalitarian", under this idea
 	- more like US: the Nuer, as per [[Kathleen Gough]]
 		- but [[E E Evans Pritchard]] also right in thinking Nuer egalitarian, since rank and differential access had almost no bearing outside arranging marriages
-		- importantly, differences in wealth never [translated into the ability to give orders or demand obeisance](differences%20of%20wealth%20translated%20into%20systematic%20inequalities%20of%20power.md) 
+		- importantly, differences in wealth never [translated into the ability to give orders or demand obeisance](differences_of_wealth_translated_into_systematic_inequalities_of_power.md) 
 		- ghost marriage: [^3]
 
 ## mini-summation

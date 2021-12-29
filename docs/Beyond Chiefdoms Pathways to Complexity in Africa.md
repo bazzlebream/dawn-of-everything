@@ -21,5 +21,5 @@ contributors:
 - [[Susan Keech McIntosh]]
 
 <!--
-![](Susan%20Keech%20McIntosh%20-%20Beyond%20Chiefdoms_%20Pathways%20to%20Complexity%20in%20Africa%20(New%20Directions%20in%20Archaeology)%20(2005).pdf)
+![](Susan_Keech_McIntosh_-_Beyond_Chiefdoms__Pathways_to_Complexity_in_Africa_(New_Directions_in_Archaeology)_(2005).pdf)
 -->

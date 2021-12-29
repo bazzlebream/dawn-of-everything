@@ -20,7 +20,7 @@ KAA on: the "indigenous critique":
 
 KAA: this claim is not true [[wengrow response - concept of inequality]]
 - [ie plenty of Europeans before the Englishtenment did not lack the concept of social inequality - zw explicitizing implicit]
-	- [Francisco de Vitoria](Francisco%20de%20Vitoria.md)] spoke about social inequality
+	- [Francisco de Vitoria](Francisco_de_Vitoria.md)] spoke about social inequality
 		- and cited [[Gregory the Great]] who 
 		> insisted that all men were by nature equal, and that “to wish to be feared by an equal is to lord it over others, contrary to the natural order.”
 	- [[Thomas Müntzter]] in spurring on [[Great Peasants' Revolt]] references "those who lord it over you in a tyrannous way"

@@ -142,13 +142,13 @@ Simona[^3]
 [shukaitis_stevphen](shukaitis_stevphen.md)
 - in 2005 they talked about doing a project together, which never happened "for obvious reasons" ? (is scott at yale or something)
 
-[Niekie Rimac](Niekie%20Rimac.md)
+[Niekie Rimac](Niekie_Rimac.md)
 - have an intuition about this, when people were experimenting that it also could be a sacred science or sacred duty, and that's why they don't want to expand it or make it dominant; if it's sacred they would keep it small
 
 [Steve Bachelor](bachelor_steve.md)
 - the overlap of science, religion, and magic is, since the enlightenment, something that Western society's gotten wrong, or just separated them[^5]
 
-[Nika Dubrovsky](Nika%20Dubrovsky.md)
+[Nika Dubrovsky](Nika_Dubrovsky.md)
 - can we explore the difference between play and culture (since it's agri-"culture")
 
 [[Simona]]
@@ -156,7 +156,7 @@ Simona[^3]
 - i'm not sure agriculture is , culture as opposed to play, culture can be mobile thing, and has all possibilities inside it
 - maybe the difference is between being constrained in one solution when you start depending on sowing and you are stuck
 
-[Nika Dubrovsky](Nika%20Dubrovsky.md)
+[Nika Dubrovsky](Nika_Dubrovsky.md)
 I also want to connect it to colonialism, it's said that ok this particular type of civilization invented agriculture and then, they invented something else and that's how they took over the world, in which case "culture" is code for "quality" and also for "dominance" and play, is the idea that **people do it sometimes but it's not essential**[^6]
 
 [[Mary Tracy]]
@@ -167,18 +167,18 @@ I also want to connect it to colonialism, it's said that ok this particular type
 [[Mark Fuller]]
 - three disparate points
 	- [[Mary Tracy]]'s point is the difference between "anarchist" and US Libertarian play; i agree that it's dangerous
-	- [Niekie Rimac](Niekie%20Rimac.md), [Mary Tracy](Mary%20Tracy.md), and [[Tanya]]? were talking about the spirituality of the cultivators, and that's where you're "listening to nature" as opposed to "telling nature what to do"
-		- and where [Niekie Rimac](Niekie%20Rimac.md) said that "you're not going to make that a dominant force", because you're "listening to nature in a different way"
+	- [Niekie Rimac](Niekie_Rimac.md), [Mary Tracy](Mary_Tracy.md), and [[Tanya]]? were talking about the spirituality of the cultivators, and that's where you're "listening to nature" as opposed to "telling nature what to do"
+		- and where [Niekie Rimac](Niekie_Rimac.md) said that "you're not going to make that a dominant force", because you're "listening to nature in a different way"
 	- mystery of linear pottery tradition, whatever happened 5,000 years ago was still a mystery, even with some explanations in the background
 		- when Michael and Ste??ven were talking about experimentation, it seemed like it was an experimentation with cost; something else happened there and they were suggesting that it might have been: they didn't bring enough kinds of cereal or pulse to that area, and you had established foragers on the circumference, and what happened we don't know but it was a failure of some kind
 		- the theme of Ecology of Freedom is: we need to be able to experiment without those sorts of costs
 
-[Michael Scheiner](Michael%20Scheiner.md)
+[Michael Scheiner](Michael_Scheiner.md)
 - around concept of play, in class-based societies and contemporary capitalism with its emphasis on wage labor there's a necessary ideology that convinces that work and play have to be separate spheres: you literally have to work so you can play on the weekends; and i think in the book, showing alternative ways, shows that doesn't have to be the case, it can be pleasurable, experimental
 - we do think of massive divide between one and the other
 - so many work so elites can have only play
 
-[Mary Tracy](Mary%20Tracy.md)
+[Mary Tracy](Mary_Tracy.md)
 - and then the elites don't even play
 
 [Simona](Simona.md)
@@ -194,20 +194,20 @@ I also want to connect it to colonialism, it's said that ok this particular type
 
 [Steve Bachelor](bachelor_steve.md)
 
-[Michael Reinsborough](Michael%20Reinsborough.md)
-- i didn't get [Nika Dubrovsky](Nika%20Dubrovsky.md)'s thing about culture and play until I got that the etymology of culture is culturing the soil, and that's quite funny that our modern conception of culture is rooted in the last couple hundred years
+[Michael Reinsborough](Michael_Reinsborough.md)
+- i didn't get [Nika Dubrovsky](Nika_Dubrovsky.md)'s thing about culture and play until I got that the etymology of culture is culturing the soil, and that's quite funny that our modern conception of culture is rooted in the last couple hundred years
 - book: undoing myth of origin of society
 - my own relation to agriculture, i have family farming as a background, but most of us go to the grocery store, but the agriculture in the book isn't like the agriculture of the last couple hundred years, and the agriculture of the last hundred years is completely different from the agriculture before that; when modernization takes place, and agriculture today completely supported by fossil fuels
 - one of the largest political movements, Via Campesino, which would argue that if we see industrial collapse, it's the same type of people who couple make terraces in the mountains, but that's what would keep a bunch of people alive
 - the only alternative is to make sexuality play when women can get abortions ???
 
-[Nika Dubrovsky](Nika%20Dubrovsky.md)
+[Nika Dubrovsky](Nika_Dubrovsky.md)
 - i wanted to omcment that there are other ways to get food other than hunter-gatherers and foragers;
 - we were growing spirulina with david so you do that in a jar, it's playful, it's just a question of social arrangements and individuals allowed to think differently
 - in the soviet union, when it collapsed, and suddenly all the industrial cities were deprived of food, then people went to small tiny piece of land and started gardening, and 70% of grocery was produced on this tiny piece of land
 	- russia isn't ukraine or italy, so it's difficult to grow things, so we would have many options
 
-[Mary Tracy](Mary%20Tracy.md)
+[Mary Tracy](Mary_Tracy.md)
 - cuba had to do the same thing when the soviet union collapsed, they had nothing so they went into the gardens and grew food everything; obviously they had a nicer climate, but there are always options if we have the political freedom or will
 
 [^1]: [yes, but, the things that are "categories" and the things that are "liminal" are a product of human social understanding; so those categories are constructed, not objective - zw]

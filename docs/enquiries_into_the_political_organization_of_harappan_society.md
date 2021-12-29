@@ -17,7 +17,7 @@ date_modified: 2021-12-23 11:30:34
 
 # Enquiries Into the Political Organization of Harappan Society
 <!--
-![](Shereen%20Ratnagar%20-%20Enquiries%20Into%20the%20Political%20Organization%20of%20Harappan%20Society-Ravish%20Publishers.pdf)
+![](Shereen_Ratnagar_-_Enquiries_Into_the_Political_Organization_of_Harappan_Society-Ravish_Publishers.pdf)
 -->
 
 (there's another larger version of this on libgen that i have not downloaded)

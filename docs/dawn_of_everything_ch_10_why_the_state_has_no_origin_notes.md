@@ -269,7 +269,7 @@ The ball sport was definitely central to charisma and authority notions:
 - chief Maya gods were ball players
 - greatest known Maya epic about ball game
 	- [[Popol Vuh]]: mortals and gods compete, birth of Hero Twins, then beat gods
-- inscribed staircase marking accession of [[Bird Jaguar the Great]], in which prepares to strike huge rubber ball with unfortunate person inside (maybe [Jewelled Skull](Jewelled%20Skull.md))
+- inscribed staircase marking accession of [[Bird Jaguar the Great]], in which prepares to strike huge rubber ball with unfortunate person inside (maybe [Jewelled Skull](Jewelled_Skull.md))
 	- (captured high-ranking enemies often killed at ball games if their ransom wasn't paid: this was major objective of war)
 - competitive sports were substitute for war (one was extension of the other)
 	- annual cycle of royal competitions for life and death (battles and games)
@@ -739,7 +739,7 @@ similar thing in Inca Peru
 		- no sanctioned space for open competition (even though court intrigue obviously existed)
 		- dramatic public contests non-existent (such as roman chariot-racing or Olmec or Zapotec ball games)
 			- to the extent: royal jubilee was king racing *by himself* around a couple of pyramids or whatever
-		- competitive politics *only* appears transposed to the cosmos, between the gods, [Contendings of Horus and Seth](Contendings%20of%20Horus%20and%20Seth.md)
+		- competitive politics *only* appears transposed to the cosmos, between the gods, [Contendings of Horus and Seth](Contendings_of_Horus_and_Seth.md)
 			- "matters settled" by the time enters mortal domains
 
 #tidbit no doubt there’s never been a royal court without jockeying for position, tricks and double-dealing and political intrigue
@@ -759,7 +759,7 @@ similar thing in Inca Peru
 	- king's powers over mass violence and mass production
 	- children are crucial players (infants only important in kingdoms and empires)
 
-let's look at the "dark ages" ([First Intermediate Period](First%20Intermediate%20Period.md))
+let's look at the "dark ages" ([First Intermediate Period](First_Intermediate_Period.md))
 
 - when it's possible not to look at Egypt as early state
 - "whenever state sovereignty broke down, heroic politics returned"
@@ -799,7 +799,7 @@ but if we're talking about the kind of bureaucratic technologies that these myth
 
 #### Tell Sabi Abyad : small villages where our notion of bureaucracy emerged
 
-[Tell Sabi Abyad](Tell%20Sabi%20Abyad.md), 6200 bc
+[Tell Sabi Abyad](Tell_Sabi_Abyad.md), 6200 bc
 
 - "village bureaucracy"
 	- central storage facilities
@@ -839,7 +839,7 @@ however, it's clear it had some effect
 
 evidence
 
-- 5000-4000 bc (5th millennium) ['Ubaid Period](Ubaid%20period.md)
+- 5000-4000 bc (5th millennium) ['Ubaid Period](Ubaid_period.md)
 - disappearance from village life of signs of difference or individuality
 	- (admin tools and "media technologies" spread broadly)
 	- houses built to standard plans
@@ -1008,4 +1008,4 @@ redefinition of "civilization"
 —. (ed.) 2014. Violence and Civilization: Studies of Social Violence in History and Prehistory. Oxford: Oxbow.”
 [^15]: p 402
 [^16]: in the sense of keeping archives of lists, ledgers, accounting procedures, overseers, audits and files p 420
-[^17]: ['Ubaid Period](Ubaid%20period.md)
+[^17]: ['Ubaid Period](Ubaid_period.md)
