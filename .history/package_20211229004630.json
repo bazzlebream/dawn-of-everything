@@ -1,0 +1,16 @@
+{
+  "name": "graeber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bazzlebream/graeber.git",
+  "author": "bazzlebream@gmail.com",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.20.10"
+  }
+}
