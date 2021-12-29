@@ -1,2 +1,3 @@
 # graeber
-Notes for Dawn of Everything by Graeber and Wengrow
+
+Notes for, among other things, *Dawn of everything* by Graeber and Wengrow.
