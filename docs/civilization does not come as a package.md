@@ -7,7 +7,7 @@ aliases:
 - "theory that civilization does not come as a package"
 tags:
 - theory
-contributors
+contributors:
 - "Wengrow, David"
 - "Plunkett, David"
 date_created: 2021-12-24 03:16:38

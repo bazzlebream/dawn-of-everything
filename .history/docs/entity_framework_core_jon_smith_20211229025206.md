@@ -22,4 +22,4 @@ source [^2]
 www.thereformedprogrammer.net
 
 [^1]:
-[^2]: ![](Jon%20Smith%20-%20Entity%20Framework%20Core%20in%20Action-Manning%20Publications%20(2021).pdf)
+[^2]: <!-- ![](Jon%20Smith%20-%20Entity%20Framework%20Core%20in%20Action-Manning%20Publications%20(2021).pdf) -->

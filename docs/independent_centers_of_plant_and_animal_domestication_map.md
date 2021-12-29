@@ -3,7 +3,7 @@ index: false
 hide: false
 search: true
 sidebar: true
-aliases
+aliases:
 - "independent centers of plant and animal domestication - map"
 tags:
 - book

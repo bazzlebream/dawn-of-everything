@@ -44,7 +44,7 @@ date_modified: 2021-12-28 03:30:32
 - look, we're going to be counting as cities that aren't called cities ("mega-sites", "overgrown villages")
 	- please see our justification for this
 
-![](ch8_summary.md#^fed38c)
+<!-- ![](ch8_summary.md#^fed38c) -->
 
 ## why did early cities form
 

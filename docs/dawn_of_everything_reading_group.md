@@ -33,8 +33,10 @@ date_modified: 2021-12-21 04:18:54
 	- but, more often than not, farming is the result of adopting that practice only after other practices weren't available (only when other better options weren't available)
 	- starting in areas where resources were the thinnest rather than the richest
 - there was no linear process of agricultural revolution, but it began as fits and starts over long period of time
-
+<!--
 ![independent_centers_of_plant_and_animal_domestication_map](independent_centers_of_plant_and_animal_domestication_map.md)
+-->
+
 - nice overview of how agriculture happened across planet and not just in one place (fertile crescent)
 - and that there were lots of "agricultural revolutions" and no one, simple process
 

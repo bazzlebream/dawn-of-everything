@@ -22,7 +22,7 @@ date_modified: 2021-12-25 12:38:50
 
 ## § (chapter intro) (276-278)
 
-![](ch8_summary.md#^ab73bd)
+<!-- ![](ch8_summary.md#^ab73bd) --> 
 
 ### ¶ (intro) (276)
 
@@ -50,7 +50,7 @@ date_modified: 2021-12-25 12:38:50
 
 ### ¶ (intro) (278-281)
 
-![](ch8_summary.md#^905526)
+<!-- ![](ch8_summary.md#^905526)  -->
 
 - [[the problem of scale]]: a fake problem where it's thought that small groups are democratic and large groups that's difficult
 	- clearly false, look at your family
@@ -95,7 +95,7 @@ this is just adding proof that humans can think in imaginary totalities?
 	- possibility for amicable relations with strangers
 	- so, probably not any cognitive challenges when vast regional systems were "squeezed" into single urban space, while still being virtual
 
-![](ch8_summary.md#^573c2e)
+<!-- ![](ch8_summary.md#^573c2e) -->
 
 - so what's new?
 	- first settlements of 10,000+ appeared around 6kya, on almost every continent, in isolation
@@ -184,7 +184,7 @@ question:
 
 ## § on 'mega-sites’, and how archaeological findings in Ukraine are overturning conventional wisdom on the origins of cities (288-297)
 
-![](ch8_summary.md#^3e290b)
+<!-- ![](ch8_summary.md#^3e290b) -->
 
 ### ¶ (intro) (contains map) [ 288-294 )
 
@@ -213,13 +213,13 @@ question:
 			- close together (6-9 miles) with populations of 1000s each, up to 10,000, but very light ecological footprint
 			- probably in between permanently inhabited and strictly seasonal
 
-![](https://i.imgur.com/Bnwy3Uh.png)
+<!-- ![](https://i.imgur.com/Bnwy3Uh.png) -->
 
 - inhabitants of mega-sites were "eco-conscious" as we'd say, and avoided large-scale deforestation
 	- instead they did small-scale gardening, livestock, orchards, hunting and foraging
 	- diverse and sustainable
 
-![](ch8_summary.md#^938335)
+<!-- ![](ch8_summary.md#^938335) -->
 
 > “As well as wheat, barley and pulses, the citizens’ plant diet included apples, pears, cherries, sloes, acorns, hazelnuts and apricots. Mega-site dwellers were hunters of red deer, roe deer and wild boar as well as farmers and foresters. It was 'play farming’ on a grand scale: an urban populus[^2] supporting itself through small-scale cultivation and herding, combined with an extraordinary array of wild foods”[^3]
 
@@ -306,7 +306,7 @@ transition: let's look at Mesopotamia
 
 ### ¶ (intro) [ 297-298 )
 
-![](ch8_summary.md#^23a89e)
+<!-- ![](ch8_summary.md#^23a89e) -->
 
 - history of cities back to 4000 bc (6kya)
 - archaeological surprises for those who knew these areas through the bible
@@ -333,7 +333,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 #### so-called "primitive democracy": a description of the state of affairs
 
-![](ch8_summary.md#^41db1d)
+<!-- ![](ch8_summary.md#^41db1d) -->
 
 - basic elements of Mesopotamian civic life and urban society began before the [Early Dynastic period](Early%20Dynastic)]
 	- (some of these were wrongly characterized as "inventions of royal statecraft", ie attributed to monarchies)
@@ -355,7 +355,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 #### why modern scholars call this "primitive democracy" • 301
 
-![](ch8_summary.md#^3921c2)
+<!-- ![](ch8_summary.md#^3921c2) -->
 
 - looking at "[[the idea Mesopotamia possessed a primitive democracy]]"
 	- first proposed by [[Thorkild Jacobsen]] in 1940s, and since extended
@@ -385,7 +385,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 #### Uruk
 
-![](ch8_summary.md#^0268d6)
+<!-- ![](ch8_summary.md#^0268d6) -->
 
 - 3300 bc
 - cuneiform script may have been invented here
@@ -459,7 +459,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 #### Uruk Expansion
 
-![](ch8_summary.md#^fc5536)
+<!-- ![](ch8_summary.md#^fc5536) -->
 
 [main page](Uruk%20Expansion.md)
 
@@ -514,7 +514,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 ## § in which we consider whether the Indus civilization was an example of caste before kingship (313-321)
 
-![](ch8_summary.md#^75f0cb)
+<!-- ![](ch8_summary.md#^75f0cb) -->
 
 ### ¶ (all) (313-321)
 
@@ -645,7 +645,7 @@ not true just of cities, but kingdoms and empires
 
 ## § concerning an apparent case of 'urban revolution’ in Chinese prehistory (321-327 ]
 
-![](ch8_summary.md#^dbeef6)
+<!-- ![](ch8_summary.md#^dbeef6) -->
 
 ### ¶ (intro) [ 321 )
 
@@ -678,7 +678,7 @@ not true just of cities, but kingdoms and empires
 
 #### many first cities were egalitarian
 
-![](ch8_summary.md#^74aa96)
+<!-- ![](ch8_summary.md#^74aa96) -->
 - NOT saying "first cities were egalitarian"
 - ARE saying: "archaeological evidence shows that this was a common pattern, and that contradicts conventional evolutionary assumptions about the effects of scale on human society"
 	- in all 3 of these places (Ukraine, Uruk, Indus), increase in scale took place, but no corresponding increase in wealth concentration or elite power
@@ -686,7 +686,7 @@ not true just of cities, but kingdoms and empires
 
 ### ¶ section break ( 322-327 ]
 
-![](ch8_summary.md#^33b6a3)
+<!-- ![](ch8_summary.md#^33b6a3) -->
 
 - we've been showing snapshots
 - however, they existed for a while
