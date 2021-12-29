@@ -1,0 +1,3 @@
+# Wengrow response 1
+
+> In fact, Chapman proposes three models of habitation, ranging from seasonal to relatively permanent habitation. He discounts none of them and argues that—whichever one adopts—the mega-sites can indeed be considered “cities,” and strikingly egalitarian ones at that. Far from adopting a “maximalist model,” the population figures we give in _The Dawn of Everything_ are more conservative than those offered by some other archaeologists, which range above 40,000. Appiah has misrepresented our position, and Chapman’s, to create a false impression.

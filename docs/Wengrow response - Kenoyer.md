@@ -1,0 +1,7 @@
+# Wengrow response - Kenoyer
+
+> Elsewhere, Appiah alleges that we mischaracterize the work of Jonathan Mark Kenoyer, an expert on the Bronze Age civilization of the Indus Valley. According to Appiah, Kenoyer argues that the ancient site of Mohenjo-daro was “likely governed as a city-state,” something we dispute in _The Dawn of Everything._ We are hardly the first to do so. Another expert, Gregory Possehl, argued that the Indus cities were organized on more egalitarian lines, and the most recent scholarship comes down firmly on his side. We don’t cite Kenoyer for his views on political organization, but for his work on urban craft specialization. So what is Appiah’s objection? Is he saying we cannot cite Kenoyer’s insights on any one aspect of Indus archaeology without subscribing to all his other views as well? Does Appiah’s own citation of Alvin Goldman on causal theories of knowledge grant us license to assume he agrees with Goldman on social epistemology?
+
+- he says that we cite Kenoyer but that Kenoyer makes the opposite point
+- we didn't cite Kenoyer *about what Appiah thinks we're contradicting in his writing*; there is no contradiction with what we present and what Kenoyer says in the part we're interested in
+- we use another expert entirely, Gregory Possehl, to argue the point Appiah thinks we're confusing with the Kenoyer citation

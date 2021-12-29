@@ -1,0 +1,7 @@
+# Wengrow response - Catalhoyuk
+
+> Appiah presents as novel our “claim” that the Neolithic site of [Çatalhöyük](catalhoyuk.md), in Turkey, lacks evidence of central authority. In fact, this is the consensus among archaeologists. [[Ian Hodder]], longtime site director, characterizes Çatalhöyük as a fiercely egalitarian community that, despite its large size, held inequality at bay for a thousand years. If our agenda—as Appiah insists—were to find some “primordial utopia” among our Neolithic ancestors, surely we would have embraced this conclusion. In fact, we question it, pointing out the likelihood of seasonal variations in the social organization of the town. According to Appiah, we see in Çatalhöyük a “gynocentric[^1] society.” Not so. We draw attention to the importance of women’s knowledge and roles in these early Neolithic societies, but that’s hardly the same thing.
+
+
+[^1]: The only instance of "gynocentric" in the entire text is:
+	> “Another puzzling bit of evidence is the nature of the wares that Minoan merchants imported from abroad. Minoans were a trading people, and the traders appear to have been mostly men. But starting in the Proto-palatial period, what they brought home from overseas had a distinctively female flavour. Egyptian sistra, cosmetic jars, figures of nursing mothers and scarab amulets do not come from the male-dominated sphere of courtly culture but the rituals of non-royal Egyptian women and the gynocentric rites of Hathor. ” [Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 436

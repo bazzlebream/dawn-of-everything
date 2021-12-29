@@ -1,0 +1,6 @@
+Chris Knight revolution theory
+Knight 1991
+
+G&W make these points in the context of a consistent attack on any idea that we became socially and morally human during the course of a revolution. All my academic life, I have been exploring the idea that human language, consciousness, kinship and morality evolved in a process of gradual evolution which culminated in an immense social and political _revolution_. My motivation was always to challenge the popular prejudice that socialism is impossible because by nature we humans are selfish and competitive – and ‘not even a revolution could change human nature’.
+
+I would always answer this way. Yes, we are a species of great ape. Yes, like our primate cousins, we have competitive, selfish, aggressive and often violent instincts. But these were not the ones responsible for our success. Everything distinctively human about our nature – our capacity to be brilliant mums and dads, to care for one another’s childrenand not just our own, to establish moral rules, to see ourselves as others see us and to use music, dance and language to share our dreams – these extraordinary capacities were precisely the products of the greatest revolution in history, the one that worked.

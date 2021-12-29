@@ -1,0 +1,143 @@
+# the world in time
+source: [David Wengrow | Lapham’s Quarterly](https://www.laphamsquarterly.org/content/david-wengrow)
+
+talk between [Wengrow, David](david%20wengrow.md) and [[lapham_lewis_h]]
+
+[DW]
+- standard story is told everywhere but anthro and archaeology
+	- how became modern in own particular way
+	- main features: (**evolutionary narrative**)
+		- small egalitarian bands of hunter-gatherers
+		- social relations simple, technology simple
+		- groups of small scale
+		- nothing of great significance happens
+		- until agriculture
+		- with rise of farming systems, first surpluses
+		- surplus -> opportunities to privatize wealth
+		- groth of status hierarchies
+		- propel to new sizes of populations
+		- increased complexity
+		- implies hierarchy
+		- loss of primordial freedoms
+		- more and more tied in to "agrarian states" of Eurasia, since [[Bronze Age]] up to [Middle Ages](Middle%20Ages)
+		- finally transition to industrial capitalism, then finance capitalism
+- DG and DW try to show that if one includes scientific findings of anthro and archae, almost nothing about this story is true
+- [LHL] what's the timeline?
+- [DW] good question, we're usually just asked to imagine a state of nature which, in reality, would be conservatively 200ky during which paleoanthro and paleoarchaeo believe we've been in the rough physical, cognitive, form we are today
+- [LHL] right, because standard story of agriculture is 3kya
+- [DW] i think these days it's usually pushed back to 10kya (in the middle east)
+	- if you go to americas, sub africa, east asia, then then come to around 3kya
+	- so talking about something as an [[agricultural_revolution]] is already engaging in mythology rather than history
+	- humans didn't go through one transition to agriculture; there were at least 15 separate cases of domesticating plants and animals, each of which had different consequences
+- [LHL] what is your methodology
+- [DW] today, evidence is so vast and dense, that archaeology has advanced, kinds of things we can find out these days by combining with environment science, climate science, etc, detail is extraordinary
+	- allows us to repopulate the past with real human beings
+	- can now ask how china different from mesoamerica
+	- also a surprising story; exactly not the kind of thing one would make up
+- [LHL] 30
+	- standard story, humans appear 200kya, but no political consciousness until agriculture?
+- [DW] increasingly interested in "consciousness" which DG interested in
+	- this is core of work we've done
+	- back to Hegel talking about evolution of human consciousness, as a staged process, where we start with almost none at all
+	- idea you can find in Enlightenment, Rousseau wants us to imagine a human-like creature which lives in virtual isolation in the wild, but incapable of seeing consequences of own actions (foresight)
+	- really not so different from [[Standard Narrative of Human History]]
+- [LHL]
+	- also the Fall from Eden story 
+- [DW]
+	- biblical overtones, yes
+	- extended in contemporary world to people who have been treated in the same way
+		- "your culture doesn't matter, it's a relic", they are told
+- [LHL]
+	- large and complex societies without the existence of the state
+- [DW]
+	- two elements to that / perspectives
+		- what do we mean by a "state"
+		- look at concrete examples from archaeology of large-scale, densely populated societies that depart from conventional understandings of what it means to live in a state
+			- early cities, urban civilizations that don't conform
+				- east asia to black sea to mesoamerica, societies in 10k to 100k, organized on egalitarian lines
+				- still have plenty of examples of large hierarchical societies, obvi
+				- no "iron law"
+- Ukranian examples exciting
+	- as old as oldest cities in middle east [[Bob Adams]]
+	- 6kya, roughly mesoopotamian cities, other cities forming too,
+		- europe, north of black sea, ukraine and moldova
+		- as large and populous as early mesopotamian cities
+		- different in fundamental respects
+		- no evidence for central monumental architecture, palaces, temples, writing, central administration, social inequality (no rich elite burials or art depicting rulers)
+		- instead they look like tree rings, 100s of houses, 
+			- circular arrangement of people divided into neighborhoods and districts, seem to be self-government
+	- found ways to agglomerate in large numbers without central authority
+	- occupy an [[ecotone]], a part of landscape between forest and steppe, which is rather fragile
+		- large numbers of these cities pretty close
+		- researching how they didn't exhaust resources
+- Olmec, Toltec, Ancient Maya were hereditary kingdoms, warfare, tribute, exploitation
+- but another thread in mesoamerica
+	- valley of mexico
+		- around BCE, teotihuacan, place of the gods, pre-aztec
+		- humans congregated there to deal with natural disasters
+		- embark on urban life, pyramids go up
+		- after 200-300 years, (we can't read their writing yet)
+		- resources of city (100k people), stop constructing palaces and divert resources into social housing, essentially
+		- cover city on grid
+		- almost entire city is housed in large spacious apartment blocks with 3-4 families, communal areas, sanitation, murals
+		- everything still wasn't perfectly equal, but doesn't seem like anyone fell between the cracks
+		- trace this thread right up to [[Spanish Conquest]]
+		- indigenous, pre-columbian forms of democracy
+- [LHL] poverty point?
+	- [DW] no that's 3.5kya in north america
+		- enormous earthworks, looks like gathering place
+		- suffered years of neglect and destruction
+		- still don't understand how it functioned
+		- clearly it had a large influence, more like a metropolis
+- [LHL] kondiaronk and indigenous critique ("candy rock")
+	- [DW] let me explain why we talk about him
+		- framing of whole book
+		- to go beyond [Standard Narrative of Human History](Standard%20Narrative%20of%20Human%20History.md), we had to understand its roots, and roots of the **question**, what are the origins of social inequality
+			- even framing things in that way was trapping us in certain modes of thought
+			- already assumption that there was a primordial, universal society of equals
+			- traced idea to roots, begins with European philosophers in Englightenment discussing eastern americas
+			- almost impossible to understand roots of story of [social evolution](social%20evolutionism.md) without understanding those encounters
+			- [[indigenous critique]] was fairly consistent, made by inhabitants from upstate new york and norther
+				- cutting observations about European morality, ethics, religion, behavior, 
+				- recorded by Jesuit missionaries
+				- they often though of the indigenous "wicked liberties" at that point, rather than noble savages
+			- first half 18th century: many in europe thinking of freedom, happiness, prosperity, equality ("[[Age of Enlightenment]]") - europeans going all over the world
+				- one source they saw was "new world" and [[New France]] in particular
+				- principals of social freedom almost entirely alien to Europeans
+		- Kondiaronk deeply familiar with negotiating with Europeans
+			- brilliant warrior
+			- brilliant thinking and orator
+			- invited to table of governor-general of new france
+			- some convos recorded, into book by [[Lahontan]], in exile from french colonies, 1701-1703, books, [[Curious dialogues with a savage of great wisdom and sense who has traveled]]
+				- L talking to Adario (K) - based loosely on K
+					- how much of K's speech carried over to Adario?
+						- standard view: almost entirely fabrication
+						- in DoE, we compare these to other sources, particularly Jesuit relations, which record many other indigenous
+						- there is a coherence, particularly critiques of european hierarchy, how french defer on rank or wealth
+						- come through Adario, and many other sources
+					- book became best seller, plays based on it, thinkers of [[Enlightenment]], put those dialogues in mouths of fictional other characters
+						- one of most influential cases: [[Letters from a Peruvian Woman]]
+							- fictitious inca princess: Zilia
+					- [[Ronald Meeks]] [[Social sciences and the ignoble savages]]
+						- in many ways our conventional story of social evolution was invented as a riposte, or conservative , to the subversive potential of the [indigenous critique](indigenous%20critique)
+						- (remember this was an explosive time)
+					- [[Turgot]], a budding economist, writes letter to [[Madame Graffigny]] to withdraw from radical criticism of European society, and especially the idea that you could have a large, sophisticated society without radical inequality
+						- "this is naive, could be catastrophic, could end up with totalitarian socialism!"
+					- [[Graffigny]] ignores him, publishers her dialoges
+					- [[Turgot]] then writes essays which present the [Standard Narrative of Human History](Standard%20Narrative%20of%20Human%20History.md) pretty much, which places x on modes of production
+						- doesn't feature much in earlier thought
+						- taken up by [[Adam Smith]]
+						- [[Turgot]] effective in neutralizing indigenous critique
+							- reason the non-europeans have freedoms, is not because they are models or superior to us, it's precisely the opposite, it's because they are inferior, technologically primitive
+							- in order to advance to complex division of labor and high productivity, one has to sacrifice those primordial freedoms
+							- takes perspectives and shunts them to bottom of evolutionary ladder, not part of contemporary world at all, become reimagined as vestiges of remote primitive age
+		- ------------- how we absorb ambivalence story
+			- it's a compelling myth, but bears no relation to facts
+- [LHL]
+	- you open the door to the ecology of freedom, that mankind can organize itself in a way that's not capitalism
+- [DW]
+	- what we learn from this new (pre)history is that our species has been far better at this than we give them credit for; they'v'e been adept at protecting freedoms, (even though many places weren't egalitarian in some areas)
+	- human history as playful and experimental
+	- our current era is characterized by lack of imagination
+		- this is uncharacteristic for species
+- [DW] not "what are origins of inequality", but 'why do we feel so incapable of reclaiming the capacity to re-imagine and recreate our society in different forms, even when confronted with ecological catastrophe'

@@ -1,0 +1,5 @@
+# wengrow response - Teotihuacan
+
+> With reference to Teotihuacan, in the Valley of Mexico, Appiah suggests that few archaeologists would countenance the views of art historian [[Esther Pasztory]] about the city’s political structure. But the opposite is true. The latest archaeological studies vindicate Pasztory’s view that Teotihuacanos rejected dynastic personality cults and built a society where wealth, resources, and high-quality housing were distributed in a more equal fashion. We could have listed every dissenting opinion, but then—as we say in the book—we are trying to strike a balance:
+
+> Had we tried to outline or refute every existing interpretation of the material we covered, this book would have been two or three times the size, and likely would have left the reader with a sense that the authors are engaged in a constant battle with demons who were in fact two inches tall.
