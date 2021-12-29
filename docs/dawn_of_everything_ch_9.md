@@ -36,8 +36,8 @@ lowland
 		- calendar rituals about royal ancestors
 		- deeds of living kings
 		- great tombs
-			- [[Sihyaj CHan K'awiil]] at [Tikal](Tikal)
-			- [[K'inich Janaab Pakal]] at [Palenque](Palenque)
+			- [[Sihyaj CHan K'awiil]] at [Tikal](Tikal.md)
+			- [[K'inich Janaab Pakal]] at [Palenque](Palenque.md)
 		- art style
 			- relief carving
 			- curves

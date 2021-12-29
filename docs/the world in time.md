@@ -19,7 +19,7 @@ talk between [Wengrow, David](david%20wengrow.md) and [[lapham_lewis_h]]
 		- increased complexity
 		- implies hierarchy
 		- loss of primordial freedoms
-		- more and more tied in to "agrarian states" of Eurasia, since [[Bronze Age]] up to [Middle Ages](Middle%20Ages)
+		- more and more tied in to "agrarian states" of Eurasia, since [[Bronze Age]] up to [Middle Ages](Middle%20Ages.md)
 		- finally transition to industrial capitalism, then finance capitalism
 - DG and DW try to show that if one includes scientific findings of anthro and archae, almost nothing about this story is true
 - [LHL] what's the timeline?
@@ -119,7 +119,7 @@ talk between [Wengrow, David](david%20wengrow.md) and [[lapham_lewis_h]]
 						- one of most influential cases: [[Letters from a Peruvian Woman]]
 							- fictitious inca princess: Zilia
 					- [[Ronald Meeks]] [[Social sciences and the ignoble savages]]
-						- in many ways our conventional story of social evolution was invented as a riposte, or conservative , to the subversive potential of the [indigenous critique](indigenous%20critique)
+						- in many ways our conventional story of social evolution was invented as a riposte, or conservative , to the subversive potential of the [indigenous critique](indigenous%20critique.md)
 						- (remember this was an explosive time)
 					- [[Turgot]], a budding economist, writes letter to [[Madame Graffigny]] to withdraw from radical criticism of European society, and especially the idea that you could have a large, sophisticated society without radical inequality
 						- "this is naive, could be catastrophic, could end up with totalitarian socialism!"

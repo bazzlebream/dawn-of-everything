@@ -36,11 +36,11 @@ date_modified: 2021-12-28 03:30:32
 			- even if migrated fro far away
 		- civic festivals: imaginary structures become tangible
 - "urban life doesn't imply a particular form of political organization"
-	- the [theory of scaffolding](theory%20of%20scaffolding) is wrong, because evidence does not support the notion that it does ("imply …")
-	- the [the problem of scale](the%20problem%20of%20scale) is a fake problem the way it is phrased
+	- the [theory of scaffolding](theory%20of%20scaffolding.md) is wrong, because evidence does not support the notion that it does ("imply …")
+	- the [the problem of scale](the%20problem%20of%20scale.md) is a fake problem the way it is phrased
 		- partly because it confuses size of group you live in, with scale of society you life in
 		- society is as big as the imaginary structures spanning huge territories
-	*- population size does matter, though, just not in [the problem of scale](the%20problem%20of%20scale) way??*
+	*- population size does matter, though, just not in [the problem of scale](the%20problem%20of%20scale.md) way??*
 - look, we're going to be counting as cities that aren't called cities ("mega-sites", "overgrown villages")
 	- please see our justification for this
 
@@ -63,7 +63,7 @@ date_modified: 2021-12-28 03:30:32
 ## once cities formed, how did they stay together?
 
 - physical realizations of (pre-existing) extended community
-	- eg the Ukraine sites and the [Cucuteni-Tripolyte culture](Cucuteni-Tripolyte%20culture)
+	- eg the Ukraine sites and the [Cucuteni-Tripolyte culture](Cucuteni-Tripolyte%20culture.md)
 	- often even looks like a process of contraction[^3] (so no great "psychological rupture")
 - eco-consciousness (no destruction of the material conditions of their way of life)
 	- (i think this belongs to "why did they stay together")

@@ -258,7 +258,7 @@ but how did they come together to form the concentric arrangements
 	- sometimes the groups become neighborhoods (wedge-shaped)
 	- sometimes so large as to form districts or "quarters"
 	- each (neighborhood) access to:
-		- relatively large assembly house for gathering ([John Chapman](John%20Chapman) notes they don't have food-prep areas or tools)
+		- relatively large assembly house for gathering ([John Chapman](John%20Chapman.md) notes they don't have food-prep areas or tools)
 - [zw exim] it's really the uniformity we need to explain, not the deviation
 	- rose from bottom up, through "local decision-making"
 	- strongly implies: house members or representatives shared conceptual framework
@@ -335,7 +335,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 <!-- ![](ch8_summary.md#^41db1d) -->
 
-- basic elements of Mesopotamian civic life and urban society began before the [Early Dynastic period](Early%20Dynastic)]
+- basic elements of Mesopotamian civic life and urban society began before the [Early Dynastic period](Early%20Dynastic.md)]
 	- (some of these were wrongly characterized as "inventions of royal statecraft", ie attributed to monarchies)
 	- elements:
 		- labor mobilization / [[early mesopotamian corvee]] (attributed to monarchy, but actually already very ancient, as the gods created people for this according to [[Atrahasis flood myth]]), where all contributed

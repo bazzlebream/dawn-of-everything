@@ -269,7 +269,7 @@ The ball sport was definitely central to charisma and authority notions:
 - chief Maya gods were ball players
 - greatest known Maya epic about ball game
 	- [[Popol Vuh]]: mortals and gods compete, birth of Hero Twins, then beat gods
-- inscribed staircase marking accession of [[Bird Jaguar the Great]], in which prepares to strike huge rubber ball with unfortunate person inside (maybe [Jewelled Skull](Jewelled%20Skull))
+- inscribed staircase marking accession of [[Bird Jaguar the Great]], in which prepares to strike huge rubber ball with unfortunate person inside (maybe [Jewelled Skull](Jewelled%20Skull.md))
 	- (captured high-ranking enemies often killed at ball games if their ransom wasn't paid: this was major objective of war)
 - competitive sports were substitute for war (one was extension of the other)
 	- annual cycle of royal competitions for life and death (battles and games)
@@ -759,7 +759,7 @@ similar thing in Inca Peru
 	- king's powers over mass violence and mass production
 	- children are crucial players (infants only important in kingdoms and empires)
 
-let's look at the "dark ages" ([First Intermediate Period](First%20Intermediate%20Period))
+let's look at the "dark ages" ([First Intermediate Period](First%20Intermediate%20Period.md))
 
 - when it's possible not to look at Egypt as early state
 - "whenever state sovereignty broke down, heroic politics returned"

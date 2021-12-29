@@ -18,7 +18,7 @@ anthropologist, poet, died 1952
 
 ## extant doctoral work
 
-[pre-servile institutions](pre-servile%20institutions)
+[pre-servile institutions](pre-servile%20institutions.md)
 
 ## training
 in the [[central European tradition]]
