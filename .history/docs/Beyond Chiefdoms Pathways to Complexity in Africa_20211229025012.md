@@ -20,4 +20,4 @@ date_modified: 2021-12-23 02:12:09
 contributors:
 - [[Susan Keech McIntosh]]
 
-![](Susan%20Keech%20McIntosh%20-%20Beyond%20Chiefdoms_%20Pathways%20to%20Complexity%20in%20Africa%20(New%20Directions%20in%20Archaeology)%20(2005).pdf)
+![](public/Susan%20Keech%20McIntosh%20-%20Beyond%20Chiefdoms_%20Pathways%20to%20Complexity%20in%20Africa%20(New%20Directions%20in%20Archaeology)%20(2005).pdf)

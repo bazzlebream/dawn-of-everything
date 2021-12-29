@@ -526,4 +526,4 @@ so  • • • no tips here?
 [^2]:
 [^2]:  Patterns of Enterprise Application Architecture, Martin Fowler, et. al., Addison-Wesley, 2003
 [^3]: See Practical Guide to Structured Systems Design, 2nd ed., Meilir Page-Jones, 1988.
-[^4]: ![](Martin,%20Robert%20-%20Clean%20Architecture_%20a%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design-Prentice%20Hall%20(2017).pdf)
+[^4]: ![](public/Martin,%20Robert%20-%20Clean%20Architecture_%20a%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design-Prentice%20Hall%20(2017).pdf)
