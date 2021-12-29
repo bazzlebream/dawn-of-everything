@@ -86,7 +86,7 @@ this parallel leads to: weird European social thought ([[possessive individualis
 
 - this absolute, sacred quality in private property as a paradigm for all human rights and freedoms
 	- you "own" your body and legally can exclude others
-- (unlike [free societies](free%20societies))
+- (unlike [free societies](free%20societies.md))
 
 consequences:
 
@@ -136,7 +136,7 @@ theme: [[behavior in ritual contexts takes exactly the opposite form to the free
 - only within such contexts that exclusive (sacred) forms of property exist, "strict and top-down hierarchies are enforced, and orders given are dutifully obeyed"
 
 suggest:
-- carefully co-ordinated ritual theatres (geometric precision) were kinds of places where exclusive claims to property rights (and obedience) were made, among "otherwise [free people](free%20societies)"
+- carefully co-ordinated ritual theatres (geometric precision) were kinds of places where exclusive claims to property rights (and obedience) were made, among "otherwise [free people](free%20societies.md)"
 - (implied) but here (logical similarities of privae property and sacred) it's circumscribed in one area
 - big question: how did it order **so many other** aspects of human affairs
 
