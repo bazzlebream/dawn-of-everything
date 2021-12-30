@@ -130,7 +130,7 @@ was it "egalitarian"?
 		- winters cold and damp
 		- summers very hot (and i assume humid)
 		- spring to autumn: sheep and goats move around pastre areas in plains, and maybe highlands
-		- arable crops sown late in spring on [receding floodplain](receding_floodplains.md) of the [Çarşamba](Çarşamba.md).
+		- arable crops sown late in spring on [receding floodplain](receding_floodplains.md) of the [carsamba](carsamba.md).
 		- harvesting and processing in late summer
 		- quick ripening - season of Adonis
 	- we might be seeing only the winter arrangements in the built environment (ie [[seasonal variations of social structure]])

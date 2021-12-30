@@ -97,7 +97,7 @@ talk between [Wengrow, David](david_wengrow.md) and [[lapham_lewis_h]]
 			- already assumption that there was a primordial, universal society of equals
 			- traced idea to roots, begins with European philosophers in Englightenment discussing eastern americas
 			- almost impossible to understand roots of story of [social evolution](social_evolutionism.md) without understanding those encounters
-			- [[indigenous critique]] was fairly consistent, made by inhabitants from upstate new york and norther
+			- [[indigenous_critique]] was fairly consistent, made by inhabitants from upstate new york and norther
 				- cutting observations about European morality, ethics, religion, behavior, 
 				- recorded by Jesuit missionaries
 				- they often though of the indigenous "wicked liberties" at that point, rather than noble savages
@@ -119,7 +119,7 @@ talk between [Wengrow, David](david_wengrow.md) and [[lapham_lewis_h]]
 						- one of most influential cases: [[Letters from a Peruvian Woman]]
 							- fictitious inca princess: Zilia
 					- [[Ronald Meeks]] [[Social sciences and the ignoble savages]]
-						- in many ways our conventional story of social evolution was invented as a riposte, or conservative , to the subversive potential of the [indigenous critique](indigenous_critique.md)
+						- in many ways our conventional story of social evolution was invented as a riposte, or conservative , to the subversive potential of the [indigenous_critique](indigenous_critique.md)
 						- (remember this was an explosive time)
 					- [[Turgot]], a budding economist, writes letter to [[Madame Graffigny]] to withdraw from radical criticism of European society, and especially the idea that you could have a large, sophisticated society without radical inequality
 						- "this is naive, could be catastrophic, could end up with totalitarian socialism!"

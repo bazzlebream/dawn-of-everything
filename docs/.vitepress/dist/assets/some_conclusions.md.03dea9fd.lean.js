@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as i,a as o}from"./app.b7c4ed3a.js";const f='{"title":"some conclusions","description":"","frontmatter":{},"relativePath":"some_conclusions.md","lastUpdated":1640822312604}',a={},s=o("",5),n=[s];function l(r,c,h,u,m,p){return i(),t("div",null,n)}var g=e(a,[["render",l]]);export{f as __pageData,g as default};

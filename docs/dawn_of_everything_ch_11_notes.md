@@ -23,7 +23,7 @@ Wendat notions of freedom still with us
 ## 1. clarification
 
 - the idea of human societies evolving over time was not special
-- what was special: (and what constitutes the European backlash against the [[Indigenous Critique]])
+- what was special: (and what constitutes the European backlash against the [[indigenous_critique]])
 	- classifying societies by means of subsistence
 		- allowing agriculture to be seen as a break or revolution
 	- assuming that societies grew more complex as they increased in size

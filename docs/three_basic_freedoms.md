@@ -24,4 +24,4 @@ The reason for that was that while chiefs existed, and they could give orders, n
 
 The third freedom, which is really built on the first two, is simply the freedom to imagine a new society. In other words, the freedom to tear a little hole in the fabric of your society, reconfigure it in another form, and then actually make that happen. That seems to be what our ancestors were doing for most of history.
 
-But it also seems to be what we’ve forgotten how to do. We haven’t lost equality. Rather, we’ve lost the freedom to imagine and reinvent the ways we live together and take part in that collectively. [No, Large-Scale Societies Don’t Need Massive Inequalities](No_Large-Scale_Societies_Don’t_Need_Massive_Inequalities.md)
+But it also seems to be what we’ve forgotten how to do. We haven’t lost equality. Rather, we’ve lost the freedom to imagine and reinvent the ways we live together and take part in that collectively. [No, Large-Scale Societies Don’t Need Massive Inequalities](no_large_scale_societies_dont_need_massive_inequalities.md)

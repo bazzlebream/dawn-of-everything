@@ -20,7 +20,7 @@ zw: why do they start this way?
 				- historically: [[means of subsistence]] standard
 					- led to: treat hunter-gatherers as distinct variety of humans
 					- combined with [[Roussea's theory of the origins of inequality]] (agriculture)
-					- combined with [[Rousseau's theory of the origin of the state]] (material surplus)
+					- combined with [[rousseau_s_theory_of_the_origin_of_the_state]] (material surplus)
 					- (it's the "inexorability" here that DoE argues against)
 
 - yes, agriculture[^1] is a necessary [[condition of possibility]] of bureaucratic regimes like "Pharaonic Egypt, Maurya Empire, Han China"
