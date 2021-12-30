@@ -133,7 +133,7 @@ transition: archaeology gets interesting here, to DoE
 
 ## Tiny hunter-gatherer bands
 
-[tiny hunter gatherer bands](tiny_hunter_gatherer_bands.md)
+[tiny_hunter_gatherer_bands](tiny_hunter_gatherer_bands.md)
 
 [Wealth inequalities not OK](Wealth_inequalities_not_OK.md)
 
