@@ -5,7 +5,7 @@ search: true
 # index
 
 ## books
-[Dawn of everything](dawn_of_everything_graeber_wengrow.md)
+- [Dawn of everything](dawn_of_everything_graeber_wengrow.md)
 
 
 ## links

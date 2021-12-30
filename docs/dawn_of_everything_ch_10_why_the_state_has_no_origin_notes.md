@@ -4,7 +4,9 @@ hide: false
 search: true
 sidebar: true
 aliases:
+- "Dawn of Everything: Ch 10: Why the State Has No Origin (notes)"
 tags:
+- notes
 date_created: 2021-12-25 02:37:43
 date_modified: 2021-12-26 11:51:32
 ---

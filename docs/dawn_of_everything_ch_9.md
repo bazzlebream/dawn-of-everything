@@ -4,15 +4,16 @@ hide: false
 search: true
 sidebar: true
 aliases:
-- dawn of everything chapter 9
+- "Dawn of Everything: Ch 9: Hiding in plain sight"
 tags:
 - chapter
 - book
+- notes
 date_created: 2021-12-24 07:49:50
 date_modified: 2021-12-24 07:49:50
 ---
 
-# dawn of everything chapter 9 ()
+# Dawn of Everything: Ch 9: Hiding in plain sight (notes)
 
 (historically early, but mentioned interspersed)
 - [[Olmec]]

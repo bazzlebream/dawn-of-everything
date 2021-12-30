@@ -1,4 +1,4 @@
-pub---
+---
 index: false
 hide: false
 search: true

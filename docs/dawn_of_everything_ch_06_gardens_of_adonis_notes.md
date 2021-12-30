@@ -5,7 +5,7 @@ search: true
 sidebar: true
 aliases:
 - "Gardens of Adonis (ch 6)"
-- "Dawn of Everything: Ch 8: Gardens of Adonis (notes) "
+- "Dawn of Everything: Ch 6: Gardens of Adonis (notes)"
 tags:
 date_created: 2021-12-21 03:46:29
 date_modified: 2021-12-28 09:55:51
