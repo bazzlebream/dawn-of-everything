@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a as n}from"./app.b7c4ed3a.js";const g='{"title":"Wengrow response - Kenoyer","description":"","frontmatter":{},"relativePath":"Wengrow_response_-_Kenoyer.md","lastUpdated":1640822311730}',i={},a=n("",3),r=[a];function s(h,c,l,p,d,w){return t(),o("div",null,r)}var y=e(i,[["render",s]]);export{g as __pageData,y as default};

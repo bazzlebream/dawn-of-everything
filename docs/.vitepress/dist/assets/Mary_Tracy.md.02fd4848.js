@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,b as s}from"./app.b7c4ed3a.js";const m='{"title":"","description":"","frontmatter":{},"relativePath":"Mary_Tracy.md","lastUpdated":1640824705785}',r={},o=s("p",null,"this is a file this is a file this is a file",-1),c=[o];function i(n,_,l,p,d,f){return a(),e("div",null,c)}var u=t(r,[["render",i]]);export{m as __pageData,u as default};

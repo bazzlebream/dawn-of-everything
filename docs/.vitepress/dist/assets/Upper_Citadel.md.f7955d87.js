@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,b as s}from"./app.b7c4ed3a.js";const m='{"title":"","description":"","frontmatter":{},"relativePath":"Cahokia.md","lastUpdated":1640823554629}',o={},r=s("p",null,"this is a file",-1),c=[r];function n(i,p,_,d,l,f){return a(),t("div",null,c)}var u=e(o,[["render",n]]);export{m as __pageData,u as default};

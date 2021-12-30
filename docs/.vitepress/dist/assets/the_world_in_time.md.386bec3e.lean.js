@@ -1,0 +1,1 @@
+import{_ as i,c as e,o as t,a}from"./app.b7c4ed3a.js";const f='{"title":"the world in time","description":"","frontmatter":{},"relativePath":"the_world_in_time.md","lastUpdated":1640824707042}',l={},o=a("",5),n=[o];function r(s,u,c,h,d,m){return t(),e("div",null,n)}var g=i(l,[["render",r]]);export{f as __pageData,g as default};

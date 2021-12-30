@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as i}from"./app.b7c4ed3a.js";const g='{"title":"egalitarian society","description":"","frontmatter":{},"relativePath":"egalitarian_society.md","lastUpdated":1640824705861}',o={},r=i("",6),l=[r];function s(n,h,c,p,u,d){return a(),t("div",null,l)}var y=e(o,[["render",s]]);export{g as __pageData,y as default};

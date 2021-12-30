@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.b7c4ed3a.js";const d='{"title":"","description":"","frontmatter":{},"relativePath":"Wealth_inequalities_not_OK.md","lastUpdated":1640824705836}',o={};function n(r,s,_,c,i,p){return a(),e("div")}var f=t(o,[["render",n]]);export{d as __pageData,f as default};

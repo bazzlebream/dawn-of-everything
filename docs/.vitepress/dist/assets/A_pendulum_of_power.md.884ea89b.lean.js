@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.b7c4ed3a.js";const m='{"title":"A pendulum of power","description":"","frontmatter":{},"relativePath":"A_pendulum_of_power.md","lastUpdated":1640824705756}',n={},s=a("",10),i=[s];function r(l,u,h,p,d,c){return o(),t("div",null,i)}var b=e(n,[["render",r]]);export{m as __pageData,b as default};
