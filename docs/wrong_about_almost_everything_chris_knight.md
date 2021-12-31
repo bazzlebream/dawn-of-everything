@@ -121,7 +121,7 @@ CK goes on:
 #### point: The title is seriously misleading.
 - The title should be *Teatime*
 	- why?
-		- begins with [[European Upper Paleolithic]]
+		- begins with [[european_upper_paleolithic]]
 		- oh i see, because it's not dawn as a time of day
 
 the section CK cites here, [intro](dawn_of_everything_graeber_wengrow.md#intro)

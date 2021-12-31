@@ -190,7 +190,7 @@ unfortunately evolutionism catches on
 						- (mobilization of lots of labor, or merely side-effect of dancing-grounds or flat open spaces for feasts, games, assemblies - every year flattened and swept, so material might have just piled up over 100s of years)
 						- [[Muskogee]] did it with rotating officials organizing, no top-down structures required
 					- some were planned in advance
-						- [[Poverty Point]] or [[Hopewell earthworks]] or [[Newark Earthworks in Licking County, Ohio]]
+						- [[poverty_point]] or [[Hopewell earthworks]] or [[Newark Earthworks in Licking County, Ohio]]
 						- in river valleys, close to water
 						- so, lots of engineering to keep them from just washing away
 						- circles, squares, and octagons made of mud

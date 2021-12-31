@@ -6,16 +6,16 @@ tags:
 - notes
 - book
 date_created: Wednesday, December 29th 2021, 8:15:35 pm
-date_modified: Wednesday, December 29th 2021, 8:26:01 pm
+date_modified: Wednesday, December 29th 2021, 8:51:23 pm
 ---
 
 # Dawn of Everything: Ch 3: Unfreezing the Ice Age (notes)
 
-## 3.1. Unfreezing the Ice Age: intro
+## 1. Unfreezing the Ice Age: intro
 
 - [Unfreezing the Ice Age: intro](unfreezing_the_ice_age_intro.md)
 
-## 3.2. “WHY THE ‘SAPIENT PARADOX’ IS A RED HERRING; AS SOON AS WE WERE HUMAN, WE STARTED DOING HUMAN THINGS”
+## 2. why the ‘sapient paradox’ is a red herring; as soon as we were human, we started doing human things
 
 i'm not sure if they're saying that there was no cultural efflorescence 45kya, or that there was, but for reasons of seasonal population density rather than anything else; there is no mismatch between genetic and cultural clocks, as it were, since no one lived that densely before??
 

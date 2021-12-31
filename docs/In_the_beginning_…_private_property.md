@@ -11,7 +11,7 @@ date_modified: 2021-12-22 10:51:24
 
 # In the beginning … private property
 
-## p1-3
+## 1. p1-3
 
 > G&W argue that private property is primordial because it’s inseparable from religion. By way of illustration, they refer to the trumpets and other paraphernalia used in some indigenous traditions during boys’ coming-of-age ceremonies:
 
@@ -31,7 +31,7 @@ absolute
 
 They are just making a connection with historical terminology, not a connection to common meanings of the word "absolute" in an effort to say that it's "absolutely sacred". And actually the formal similarity is in the connection to a (higher) power, not necessarily the "absoluteness", which is not defined
 
-## p4-5
+## 2. p4-5
 
 > The conflation is reinforced when the authors seek authority for their association of religion with private property. At this pointG&W (p. 159) invoke Émile Durkheim’s classic definition of ‘the sacred’ as that which is ‘set apart’:
 
@@ -39,7 +39,7 @@ They are just making a connection with historical terminology, not a connection 
 
 First, they don't associate "religion" with private property, they associate the logical structure of private property with the logical sructure of a sacred objects and knowledge.
 
-## p6-8
+## 3. p6-8
 
 > The authors then describe how ethnographers working with indigenous Amazonians discovered ‘that almost everything around them has an owner, or could potentially be owned, from lakes and mountains to cultivars, liana groves and animals.’ (p. 161) A spiritual entity’s sacred ownership of a species or resource sets it apart from the rest of the world. Similar reasoning, write G&W, underpins Western conceptions of private property. ‘If you own a car’, they explain, ‘you have the right to prevent anyone in the entire world from entering or using it’ (p. 159).
 
@@ -51,7 +51,7 @@ The theme that keeps coming up is that CK thinks DoE are politically and activel
 
 The things he lists ("_not_ for sale, _not_ to be privatized, _not_ to be claimed by a logging company") are differences with private property (which he also conflates with capitalism?) because of the Great Spirit's preferences, not because sacred ownership is not like private property ownership.** In fact, he's arguably reinforcing their point,** which is that everywhere except Roman Law notions of private property, ownership means caring, too, andn it's precisely the things he lists (_not_ for sale, _not_ to be privatized, _not_ to be claimed by a logging company) that are not-caring-for, but are acceptable to a legal system which views the rights to dispose of something to be the only ones that matter.
 
-## p9
+## 4. p9
 
 > One of the most powerful of Durkheim’s insights was that when people invoke Divinity, they are envisaging the moral force of their community as a whole. So, if a mountain belongs to God, that’s a way of declaring that it cannot be privatized. When G&W turn that round – claiming that the concept of ‘private property’ emerged inseparably from the very idea that _some things are sacred_ – you can see what a crude misrepresentation this is.
 

@@ -98,7 +98,7 @@ answer: how we define science and social science
 - [ • • • woh i would not have gotten there from here the way they were describing it]
 - "first kings must have been dead kings"
 - individuals so treated only became sacred rulers at funerals
-- [ • • • i don't understand how this is completely connected]: to the astonishment of many, but much as [Hocart](a_m_hocart.md) predicted, the (book says "upper paleolithic" - not sure if the link is right though, to European)  [upper paleolithic](European_Upper_Paleolithic.md) really has produced evidence of grand burials, carefully staged for individuals who indeed seem to have attracted spectacular riches and honours, largely in death.
+- [ • • • i don't understand how this is completely connected]: to the astonishment of many, but much as [Hocart](a_m_hocart.md) predicted, the (book says "upper paleolithic" - not sure if the link is right though, to European)  [upper paleolithic](european_upper_paleolithic.md) really has produced evidence of grand burials, carefully staged for individuals who indeed seem to have attracted spectacular riches and honours, largely in death.
 
 [principle](principle_of_zone_of_ritual_play_as_compendium_of_possibilities.md) applies to all sorts of institutions
 - monarchy

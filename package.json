@@ -12,6 +12,7 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "markdown-it-footnote": "^3.0.3",
     "vitepress": "^0.20.10"
   }
 }

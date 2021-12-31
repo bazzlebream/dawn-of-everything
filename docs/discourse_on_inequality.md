@@ -14,4 +14,4 @@ date_modified: 2021-12-28 02:33:02
 
 # Discourse on Inequality
 
-author: [[jean-jaques rousseau]]
+author: [[jean-jaques_rousseau]]

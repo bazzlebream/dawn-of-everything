@@ -1,6 +1,5 @@
-# “WHY THE REAL QUESTION IS NOT ‘WHAT ARE THE ORIGINS OF SOCIAL INEQUALITY?’ BUT ‘HOW DID WE GET STUCK?”
-
-p 112
+[^1]# why the real question is not ‘what are the origins of social inequality?’ but ‘how did we get stuck? (112-118)
+ch 3, p 112-118
 
 - assume: “human beings really have spent most of the last 40,000 or so years moving back and forth between different forms of social organization, building up hierarchies then dismantling them again”
 - what are the implications?
@@ -32,3 +31,4 @@ Clastres left out the seasonal police bit
 - why? it's confusing; it's a wild card, and different everywhere
 
 "Many Central African forager societies are egalitarian all year round, but appear to alternate monthly between a ritual order dominated by men and another dominated by women." (Knight 1991)
+[^1]: 

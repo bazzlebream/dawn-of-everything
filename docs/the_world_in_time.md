@@ -1,7 +1,15 @@
+---
+aliases: 
+tags: 
+date_created: 2021-12-29
+date_modified: 2021-12-30
+---
+
 # the world in time
+
 source: [David Wengrow | Lapham’s Quarterly](https://www.laphamsquarterly.org/content/david-wengrow)
 
-talk between [Wengrow, David](david_wengrow.md) and [[lapham_lewis_h]]
+talk between [Wengrow, David](david_wengrow.md) and [Lewis H Lapham](lapham_lewis_h)
 
 [DW]
 - standard story is told everywhere but anthro and archaeology
@@ -42,7 +50,7 @@ talk between [Wengrow, David](david_wengrow.md) and [[lapham_lewis_h]]
 	- idea you can find in Enlightenment, Rousseau wants us to imagine a human-like creature which lives in virtual isolation in the wild, but incapable of seeing consequences of own actions (foresight)
 	- really not so different from [[Standard Narrative of Human History]]
 - [LHL]
-	- also the Fall from Eden story 
+	- also the Fall from Eden story
 - [DW]
 	- biblical overtones, yes
 	- extended in contemporary world to people who have been treated in the same way
@@ -64,7 +72,7 @@ talk between [Wengrow, David](david_wengrow.md) and [[lapham_lewis_h]]
 		- as large and populous as early mesopotamian cities
 		- different in fundamental respects
 		- no evidence for central monumental architecture, palaces, temples, writing, central administration, social inequality (no rich elite burials or art depicting rulers)
-		- instead they look like tree rings, 100s of houses, 
+		- instead they look like tree rings, 100s of houses,
 			- circular arrangement of people divided into neighborhoods and districts, seem to be self-government
 	- found ways to agglomerate in large numbers without central authority
 	- occupy an [[ecotone]], a part of landscape between forest and steppe, which is rather fragile
@@ -98,7 +106,7 @@ talk between [Wengrow, David](david_wengrow.md) and [[lapham_lewis_h]]
 			- traced idea to roots, begins with European philosophers in Englightenment discussing eastern americas
 			- almost impossible to understand roots of story of [social evolution](social_evolutionism.md) without understanding those encounters
 			- [[indigenous_critique]] was fairly consistent, made by inhabitants from upstate new york and norther
-				- cutting observations about European morality, ethics, religion, behavior, 
+				- cutting observations about European morality, ethics, religion, behavior,
 				- recorded by Jesuit missionaries
 				- they often though of the indigenous "wicked liberties" at that point, rather than noble savages
 			- first half 18th century: many in europe thinking of freedom, happiness, prosperity, equality ("[[Age of Enlightenment]]") - europeans going all over the world

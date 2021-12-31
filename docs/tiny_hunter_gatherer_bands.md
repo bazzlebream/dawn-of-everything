@@ -1,6 +1,6 @@
 # tiny hunter gatherer bands
 
-## p1
+## 1. p1
 
 search for "social complexity":
 ![](https://i.imgur.com/vLgl8CO.png)
@@ -17,7 +17,7 @@ how i understand this (paraphrasing CK unless stated otherwise)
 - DoE uses "social complexity" to mean "class"
 - to rephrase: DoE thinks resisting surplus prevents classes from emerging, and DoE "complains" about this practice?[^2]
 
-## p2
+## 2. p2
 
 > So, hunter-gatherers obstruct complexity – i.e., prevent class society from arising – by resisting the accumulation of wealth. G&W invoke the authority of the hunter-gatherer specialist James Woodburn here. They conclude from his work that ‘the only way to maintain a truly egalitarian society is to eliminate the possibility of accumulating any sort of surplus at all’ (p. 128). This, they argue, rules out social complexity and – with it – the full richness of human cultural and intellectual life.
 
@@ -31,7 +31,7 @@ let's look at that section in DoE
 
 *they explicitly distance themselves from this conclusion*, saying it's the dominant view -- as we will see, they redefine "egalitarian"
 
-## p3
+## 3. p3
 > Woodburn (1982, 2005) certainly did argue that deliberate resistance to accumulation underpins hunter-gatherer egalitarianism and represents a political choice consciously made. He observed that such egalitarianism was a feature only of non-storage hunter-gatherers, concluding that ‘immediate return’ was the original type of human economy. But Woodburn did not argue that such egalitarianism was lacking in complexity. In fact, he viewed the binary contrast between ‘simple’ and ‘complex’ social forms as damaging and misleading. For Woodburn, maintaining egalitarianism was a supremely sophisticated achievement – demanding far greater levels of political intelligence and complexity than simply allowing inequalities to arise. The Hadza, he explained, have the intelligence to realize how dangerous it would be to let anyone accumulate more wealth than they need.
 
 (correcting DoE on woodburn)

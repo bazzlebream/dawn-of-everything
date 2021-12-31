@@ -13,9 +13,5 @@ date_modified: 2021-12-22 09:06:24
 ---
 
 # "immediate return" economies
-“food brought home is eaten the same day or the next; anything extra is shared out, but never preserved or stored.”
-
-Excerpt From
-The Dawn of Everything 
-David Graeber
-interpreting [James Woodburn](James_Woodburn.md)
+> food brought home is eaten the same day or the next; anything extra is shared out, but never preserved or stored.[^1]
+[^1]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md)p 129
