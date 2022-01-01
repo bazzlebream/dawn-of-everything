@@ -10,6 +10,8 @@ date_modified: 2021-12-29
 
 # European Upper Paleolithic
 
+"Upper Palaeolithic period": 50,000 - 15,000 bc ^[[Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 85 ]
+
 - preceded by:
 - followed by: [Mesolithic](mesolithic.md)
 

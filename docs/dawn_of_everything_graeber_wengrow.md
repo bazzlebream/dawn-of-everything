@@ -16,7 +16,7 @@ date_modified: 2021-12-29
 
 ## 1. chapter notes & summaries
 
-- [chapter_one](chapter_one.md)
+- [dawn_of_everything_ch_1_farewell_to_humanitys_childhoodnotes](dawn_of_everything_ch_1_farewell_to_humanitys_childhoodnotes.md)
 - [Dawn of Everything: Ch 2: Wicked Liberty (notes)](dawn_of_everything_ch_2_wicked_liberty_notes.md)
 - [Dawn of Everything: Ch 3: Unfreezing the Ice Age (notes)](dawn_of_everything_ch_3_unfreezing_the_ice_age.md)
 - [Dawn of Everything: Ch 4: Free People, the Origin of Cultures, and the Advent of Private Property (notes)](dawn_of_everything_ch_4_free_people_notes.md)

@@ -13,7 +13,7 @@ date_modified: 2021-12-30
 - "played major role in displacement of thousands of indigenous peoples" and "the destruction of entire civilizations"
 
 how it worked:
-- assert that foraging people living in [[State of Nature]]
+- assert that foraging people living in [[state_of_nature]]
 	- that is, they were "part of the land but had no legal claims to own it"
 - displacement based on claim that inhabitants weren't "really" working
 	- where does this idea come from?

@@ -10,6 +10,8 @@ date_modified: 2021-12-31
 
 # Dawn of Everything: Ch 4: Free People, the Origin of Cultures, and the Advent of Private Property (notes) (120-163)
 
+--- 
+
 ## 1. terms
 
 - **abundance**:[^1][^26]
@@ -36,11 +38,19 @@ date_modified: 2021-12-31
 	- amenable to "extraordinary cultural inventiveness"
 	- reproduced by people settings themselves off against each other (schismogenesis)
 
-**text subchapter division**: *in which we describe how the overall course of human history has meant that most people live their lives on an ever-smaller scale as populations get larger (p121-125)*
-- #stuck preconditions in order for some people to "claim permanent power over others" (p 121)
+---
+
+**text subchapter division**: *(1) in which we describe how the overall course of human history has meant that most people live their lives on an ever-smaller scale as populations get larger*^[pp 121-125]
+- #stuck What are the preconditions in order for some people to "claim permanent power over others"^[p 121]
 	- existence of discrete societies
 	- self-contained society abandons seasonal dispersal and settles into hierarchical arrangement permanently
-	- NOT agriculture
+	- "agriculture" is neither necessary nor sufficient
+		- agriculture not necessary: even without agriculture, there was [forager monumentality](forager_monumentality.md)
+		- agriculture not sufficient: even when agriculture, no permanent domination: [  ??  ]
+	- [[NOT surplus]]
+
+- [[defining egalitarianism]]
+	- and differences never translate into systematic inequalities of power
 
 [comments on scale or social worlds](comments_on_scale_or_social_worlds.md)
 
@@ -99,6 +109,7 @@ date_modified: 2021-12-31
 	- rhetoric
 
 ---
+
 ### 2.3. what are the mechanisms that cause human beings to spend so much effort trying to demonstrate that they are different from their neighbours (will consider in next chapter)
 
 #stuck
@@ -112,7 +123,7 @@ date_modified: 2021-12-31
 
 ---
 
-**text subchapter division**^[in which we ask what, precisely, is equalized in ‘egalitarian’ societies? (125-135)]
+**text subchapter division** *(2) in which we ask what, precisely, is equalized in ‘egalitarian’ societies?* ^[pp 125-135]
 [in which we ask what, precisely, is equalized in ‘egalitarian’ societies?
 ](in_which_we_ask_what_precisely_is_equalized_in_egalitarian_societies.md)
 
@@ -152,7 +163,7 @@ date_modified: 2021-12-31
 
 ---
 
-## 1. mini-summation
+## 3. mini-summation
 
 #theme
 
@@ -174,9 +185,9 @@ let's change this to:
 
 ---
 
+[[why this information isn't integrated]]
 
-
-
+[[formal similarities of sacred and private property]]
 
 **text subchapter division**[^12]
 
@@ -189,7 +200,7 @@ let's change this to:
 **text subchapter division**[^16]
 [in_which_we_finally_return_to_the_question_of_property_and_inquire_as_to_its_relation_to_the_sacred](in_which_we_finally_return_to_the_question_of_property_and_inquire_as_to_its_relation_to_the_sacred.md)
 
-### 2.5. the different levels of causation
+### 3.1. the different levels of causation
 
 From weakest to strongest claim, or broadest to most narrow.
 

@@ -109,7 +109,7 @@ talk between [Wengrow, David](david_wengrow.md) and [Lewis H Lapham](lapham_lewi
 				- cutting observations about European morality, ethics, religion, behavior,
 				- recorded by Jesuit missionaries
 				- they often though of the indigenous "wicked liberties" at that point, rather than noble savages
-			- first half 18th century: many in europe thinking of freedom, happiness, prosperity, equality ("[[Age of Enlightenment]]") - europeans going all over the world
+			- first half 18th century: many in europe thinking of freedom, happiness, prosperity, equality ("[[age_of_enlightenment]]") - europeans going all over the world
 				- one source they saw was "new world" and [[New France]] in particular
 				- principals of social freedom almost entirely alien to Europeans
 		- Kondiaronk deeply familiar with negotiating with Europeans
@@ -123,7 +123,7 @@ talk between [Wengrow, David](david_wengrow.md) and [Lewis H Lapham](lapham_lewi
 						- in DoE, we compare these to other sources, particularly Jesuit relations, which record many other indigenous
 						- there is a coherence, particularly critiques of european hierarchy, how french defer on rank or wealth
 						- come through Adario, and many other sources
-					- book became best seller, plays based on it, thinkers of [[Enlightenment]], put those dialogues in mouths of fictional other characters
+					- book became best seller, plays based on it, thinkers of [[age_of_enlightenment]], put those dialogues in mouths of fictional other characters
 						- one of most influential cases: [[Letters from a Peruvian Woman]]
 							- fictitious inca princess: Zilia
 					- [[Ronald Meeks]] [[Social sciences and the ignoble savages]]

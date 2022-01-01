@@ -28,9 +28,9 @@ date_modified: 2021-12-22 03:41:10
 
 [his revolution theory](his_revolution_theory.md)
 
-## point by point
+## 1. point by point
 
-### point one
+### 1.1. point one
 Once an egalitarian social structure was produced, even though humans are experimental, their very self-awareness[^3] of the alternative would have prevailed over the experimentalism,[^4] and we wouldn't see any dominance structures arise
 
 > G&W oppose the whole idea that our hunter-gatherer ancestors were egalitarians. In their view, they would just as likely have chosen to be oppressed.[^2]
@@ -51,7 +51,7 @@ CK thinks he and DoE are aligned in thinking humans innately don't want to be do
 **However, CK takes issue that DoE doesn't explore the idea that these interpersonal-emotional tactics (IET) shaped human nature during the evolution of homo sapiens**
 ***i don't think CK ever develops this point***
 
-### point two?
+### 1.2. point two?
 DoE get Boehm wrong
 Ck paraphrases:
 - DoE think Boehm is saying that nothing political happened in the 200,000 years between egalitarianism being everywhere, and then 12,000 years go dominance being (mostly) everywhere
@@ -64,10 +64,10 @@ Ck paraphrases:
 - CK? "this is how successful revolutions work"
 		
 so far:
-- CK agrees with CB (and DoE) that early humans were at least experimenting with differentn social forms 200,000 years ago
+- CK agrees with CB (and DoE) that early humans were at least experimenting with different social forms 200,000 years ago
 - CK disagrees with DoE when DoE says that the ~200k year period would have seen anything except egalitarian social orders (ie lots of different social structures), because (CK believes) once it was invented in a single place and then spread to the world it was there to stay, until 12k years ago
 
-### the teatime of everything
+### 1.3. the teatime of everything
 - CK: DoE claims that Darwinism is pure myth
 	- ZW: I can't find this claim, other than a footnote • [^10] The point of the footnote seems to be that Darwinism did not establish the "timescale" of human prehistory, not that Darwinism as a theory is a myth[^11]
 - CK: Whatever they may have to say about [social evolutionism](social_evolutionism.md), it should not automatically apply to [[modern evolutionary theory]]
@@ -118,7 +118,7 @@ CK goes on:
 - their goal: undermine the idea that human origins[^9] research is worth pursuing at all
 - if you are interested in how we became human – how we developed our unusually revealing eyes, our extraordinarily large brains, our distinctively social emotions, our laughter, our innate capacity for music and language – you won’t find anything at all!
 
-#### point: The title is seriously misleading.
+#### 1.3.1. point: The title is seriously misleading.
 - The title should be *Teatime*
 	- why?
 		- begins with [[european_upper_paleolithic]]
@@ -131,7 +131,7 @@ transition: archaeology gets interesting here, to DoE
 - emergence of elites
 - evidence for social complexity, hierarchy, burials
 
-## Tiny hunter-gatherer bands
+## 2. Tiny hunter-gatherer bands
 
 [tiny_hunter_gatherer_bands](tiny_hunter_gatherer_bands.md)
 
