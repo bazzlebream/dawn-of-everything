@@ -291,7 +291,7 @@ The ball sport was definitely central to charisma and authority notions:
 ## §chavín de huántar – an ‘empire’ built on images? (385-)
 
 - [[ Chavín de Huántar]] - in South America
-- area later controlled by [[Inca]]
+- area later controlled by [[inca_empire]]
 - no writing, but from 600 ad used knotting strings for records and other notation
 
 - monumental centers appearing in [Rio Supe](Rio_Supe.md) in 2999-2000 bc (3rd millennium)

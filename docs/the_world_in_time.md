@@ -124,17 +124,17 @@ talk between [Wengrow, David](david_wengrow.md) and [Lewis H Lapham](lapham_lewi
 						- there is a coherence, particularly critiques of european hierarchy, how french defer on rank or wealth
 						- come through Adario, and many other sources
 					- book became best seller, plays based on it, thinkers of [[age_of_enlightenment]], put those dialogues in mouths of fictional other characters
-						- one of most influential cases: [[Letters from a Peruvian Woman]]
+						- one of most influential cases: [[Letters_from_a_Peruvian_Woman]]
 							- fictitious inca princess: Zilia
 					- [[Ronald Meeks]] [[Social sciences and the ignoble savages]]
 						- in many ways our conventional story of social evolution was invented as a riposte, or conservative , to the subversive potential of the [indigenous_critique](indigenous_critique.md)
 						- (remember this was an explosive time)
 					- [[Turgot]], a budding economist, writes letter to [[Madame Graffigny]] to withdraw from radical criticism of European society, and especially the idea that you could have a large, sophisticated society without radical inequality
 						- "this is naive, could be catastrophic, could end up with totalitarian socialism!"
-					- [[Graffigny]] ignores him, publishers her dialoges
+					- [[Madame_Graffigny]] ignores him, publishers her dialoges
 					- [[Turgot]] then writes essays which present the [Standard Narrative of Human History](Standard_Narrative_of_Human_History.md) pretty much, which places x on modes of production
 						- doesn't feature much in earlier thought
-						- taken up by [[Adam Smith]]
+						- taken up by [[adam_smith]]
 						- [[Turgot]] effective in neutralizing indigenous critique
 							- reason the non-europeans have freedoms, is not because they are models or superior to us, it's precisely the opposite, it's because they are inferior, technologically primitive
 							- in order to advance to complex division of labor and high productivity, one has to sacrifice those primordial freedoms

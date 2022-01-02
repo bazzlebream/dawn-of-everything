@@ -4,14 +4,15 @@ hide: false
 search: true
 sidebar: true
 aliases:
+- "Dawn of Everything: Chapter 12: Conclusion (notes)"
 tags:
 date_created: 2021-12-27 09:48:48
-date_modified: 2021-12-28 02:05:14
+date_modified: 2022-01-02
 ---
 
-# Dawn of Everything: Chapter 12 "Conclusion" - notes
+# Dawn of Everything: Chapter 12: Conclusion (notes)
 
-## ??
+## 1. ??
 
 - asking about origin of inequality is wrong question
 	- so, Roussea and Hobbes ideas (only rousseau does the question even come up)
@@ -45,11 +46,12 @@ date_modified: 2021-12-28 02:05:14
 	- introducing possibility of self-conscious projects for reshaping society (aka genuinely revolutionary politics)
 		- dismissed the insurrections and visionary movements before 1700 as people insisting on return to "ancient ways" or acting on vision from God
 
-### the argument that pre-Enlightenment societies were not self-conscious political actors who could intervene on themselves
+### 1.1. the argument that pre-Enlightenment societies were not self-conscious political actors who could intervene on themselves
 
 [longer quote](the_pre_enlightenment_societies_were_not_self_conscious_argument.md)
 
-#### anthropologists (who change) study societies (that don't change)
+#### 1.1.1. anthropologists (who change) study societies (that don't change)
+
 - manifestations in Anthropology
 	- uses "eternal present" / ahistorical terms / implied timeless and unchanging
 	- historical events unpredictable
@@ -57,7 +59,7 @@ date_modified: 2021-12-28 02:05:14
 		- daily round, seasonal cycles, rites of passage, patterns of dynamic succession, growing and splitting of villages (emphasis on same structure enduring)
 		- "anthropologists wrote this way because they considered themselves scientists (‘structural-functionalists’, in the jargon of the day)."; makes the subjects of study seem opposite: like not-scientists where nothing happened
 
-## Eliade on cyclical time:
+## 2. Eliade on cyclical time:
 
 - **traditional** societies live in **cyclical** time
 	- everything important already happened
@@ -69,7 +71,7 @@ date_modified: 2021-12-28 02:05:14
 		- said introduced by Judaism and Old Testament
 - [ • • • two obviously absurd positions this leads to]
 
-## why is it hard to imagine people from the past making their own history
+## 3. why is it hard to imagine people from the past making their own history
 
 answer: how we define science and social science
 
@@ -77,7 +79,7 @@ answer: how we define science and social science
 	- an account showing humans shaping own structures, written off as awaiting "real" scientific explanation
 	- it's why big histories place explanation outside humans, as in on primary materials (Bronze Age), or revolutionary breakthroughs (Agricultural Revolution)
 
-### Zone of ritual play
+### 3.1. Zone of ritual play
 
 - in fact, agriculture wasn't like invention of the steam engine
 	- it and other innovations based on collective body of knowledge accumulated over centuries, by women, humble and significant discoveries
@@ -90,7 +92,7 @@ answer: how we define science and social science
 - also, importantly, social experimentation
 - zone is library of social possibilities
 
-#### A M Hocart said it first? :
+#### 3.1.1. M Hocart said it first? :
 
 [principle of zone of ritual play as compendium of possibilities](principle_of_zone_of_ritual_play_as_compendium_of_possibilities.md)
 [A M Hocart](a_m_hocart.md)
@@ -110,20 +112,20 @@ answer: how we define science and social science
 
 evidence doesn't just show this ritual year as compendium, but people actually lived (in) these possibilities for parts of the year
 
-## getting stuck
+## 4. getting stuck
 
 [[theory that the thing that went wrong was when people started losing freedom to imagine and enact other forms of social existence]]
 - even anthropologists like [Pierre Clastres](pierre_clastres.md),  [Christopher Boehm](boehm_christopher.md) who say humans always able to imagine other possibilities, still say / imply that for 95% of history, they only wanted small-scale society of equals
 
 **see: Roman confusion between care and domination (below) for finalish answer**
 
-### framing the problem as: refusing Cahokia was possible and worked, but refusing France and it all fucked up (ie they did try)
+### 4.1. framing the problem as: refusing Cahokia was possible and worked, but refusing France and it all fucked up (ie they did try)
 
 better way to frame problem:
 
 - why (how?) possible for [[eastern_woodlands_of_north_america]] ancestors to refute Cahokia and reorganize into free republics, but when the French tried to do it, the result was disastrous
 
-#### why did revolution-ish work for native americans but not french?
+#### 4.1.1. why did revolution-ish work for native americans but not french?
 
 - the difference is thinking of freedom as practical vs abstract ideal or formal principle
 - basic forms of social liberty:
@@ -132,7 +134,7 @@ better way to frame problem:
 	- shape new social realities
 - the first two are "scaffolding" for the third aka "propping up" the third freedom
 
-#### how "propping up the third freedom" works
+#### 4.1.2. how "propping up the third freedom" works
 
 - as long as first two freedoms taken for granted, as in North America,
 	- kings could only ever be play kings (same for any other hierarchy or system of authority)
@@ -143,7 +145,7 @@ better way to frame problem:
 - how did we get stuck
 - how stuck are we
 
-#### culture areas: epochal development
+#### 4.1.3. culture areas: epochal development
 
 - gradual division of human societies into culture areas
 	- neighbors define selves against each other, exaggerating differences
@@ -152,7 +154,7 @@ better way to frame problem:
 	- end of last Ice Age onwards too (archaeological evidence)
 		- but why or what constitutes boundary?
 
-##### mesolithic:
+##### 4.1.3.1. mesolithic:
 
 - post-Ice Age (Mesolithic) hunter-gatherers in Golden Age
 	- local experiments
@@ -162,13 +164,13 @@ better way to frame problem:
 	- **first clear indication of permanent rank divisions + violence**
 	- hierarchy and stratification, in some cases, fixed in place
 
-##### violence permanentizes play: origins of warfare
+##### 4.1.3.2. violence permanentizes play: origins of warfare
 
 - "play kings cease to be play kings precisely when they start killing people"
 	- see: excess of ritual violence during transitions
 	- same (?) is true of war (that being, if you're killed, you're dead)
-		**- but no reason to assume "war" has always existed**		
-	- - war isn't just "organized violence": [[Raymond Kelly]]'s [principle of social substitutability](social_substitutability.md)
+		**- but no reason to assume "war" has always existed**
+	- war isn't just "organized violence": [[Raymond Kelly]]'s [principle of social substitutability](social_substitutability.md)
 		- murder of whole populations only one step further (logically)
 		- this arrangement - no reason to assume human hardwired
 			- on the contrary, usually have to use a bit of techniques to do it (systematic yet indiscriminate killing)
@@ -183,7 +185,7 @@ better way to frame problem:
 	- long periods of time AFTER agriculture adopted, that war successfully abolished (apparently)
 	- evidence that war and agriculture could be abolished
 
-##### new question: relationship between external warfare and internal loss of freedoms (looking towards Roman POWs), made possible systems of rankings, which made possible large-scale systems of domination
+##### 4.1.3.3. new question: relationship between external warfare and internal loss of freedoms (looking towards Roman POWs), made possible systems of rankings, which made possible large-scale systems of domination
 
 - if a relationship, how direct (correlation)
 - WARNING: don't assume these ancient polities were just old versions of modern system
@@ -206,7 +208,7 @@ second-order regimes
 
 (aka, again refuting that these "early states" are better seen as combos of 2 of 3 elements)
 
-###### close connection between patriarchal household and military might (aka violence)
+###### 4.1.3.3.1. close connection between patriarchal household and military might (aka violence)
 
 again: question of warfare (outside the society) and loss of freedoms within society
 
@@ -221,9 +223,9 @@ we've had to use imperial language to try to answer this, which already implied 
 - the imperial language derives from Roman Law
 - our language is more scientific / neutral
 
-### our social structure comes from Roman law that "freedom" is the authority a slave-owner has over a POW-slave, combined with the fact that the slave does the care and nurturing of that slave-owner
+### 4.2. our social structure comes from Roman law that "freedom" is the authority a slave-owner has over a POW-slave, combined with the fact that the slave does the care and nurturing of that slave-owner
 
-#### (and also keep in mind that, ahead, the Wendat households were defined in exactly opposite terms)
+#### 4.2.1. (and also keep in mind that, ahead, the Wendat households were defined in exactly opposite terms)
 
 [Roman Law conception of natural freedom](roman_law_conception_of_natural_freedom.md)
 - based on power of male head of household to dispose of property (abusus)
@@ -240,7 +242,7 @@ we've had to use imperial language to try to answer this, which already implied 
 	- property law mostly about situations coming about because of that formulation
 - remember, the jurists who laid this all out were patriarchs with total authority over household, and had dozens or hundreds of slaves
 
-### now i'm guessing we get into the violence / nurture thing  • • • (509)
+### 4.3. now i'm guessing we get into the violence / nurture thing  • • • (509)
 
 - for Romans
 	- in terms of legal theory these slaves were classified as captive foreigners (Prisoners of War) who, conquered in battle, had forfeited rights of any kind.
@@ -269,13 +271,13 @@ domestic, domesticated, dominium (emperor's sovereignty and citizen's power over
 
 following "line of thought"
 
-### historically: what happened to POWs
+### 4.4. historically: what happened to POWs
 
 - direct evidence of warfare, massacres, POW detected long before kingdoms/empires
 	- hard to tell what happened to POWs
 	- things not clear-cut; multiple possibilities
 
-#### Wendat mourning wars, POWs
+#### 4.4.1. Wendat mourning wars, POWs
 
 - Kandiaronk times
 - very warlike
@@ -338,13 +340,13 @@ It seems to us that this connection – or better perhaps, confusion – between
 
 - critical to understanding how we got stuck
 
-## they go over misconceptions?
+## 5. they go over misconceptions?
 
 some form of:
 
 doing x implies permanently giving up freedom y
 
-### scale (freedom 2)
+### 5.1. scale (freedom 2)
 
 - anti: structures of domination assured result of populations scaling up
 	- (that is, correspondence between social and spacial hierarchies)
@@ -356,7 +358,7 @@ doing x implies permanently giving up freedom y
 		- complex systems, in both natural and social world, don't have to be top-down organized
 			- (zw: we already assume this in natural world?)
 
-#### living in cities (specific example )
+#### 5.1.1. living in cities (specific example )
 
 - submit to rule of admins, priests, kings, warrior-politicians to "avert chaos or cognitive overload"
 - (this sees "violence of modern society emerging naturally from structures of rational management and paternalistic care" (care-domination))
@@ -369,7 +371,7 @@ doing x implies permanently giving up freedom y
 			- self-organizing autonomous households into neighborhoods
 			- explicit notion of equality based on uniformity and sameness**[^3]
 
-##### not surprising, given what preceded cities
+##### 5.1.1.1. not surprising, given what preceded cities
 
 - not rudimentary, isolated groups
 - far-flung networks of societies, diverse ecologies,
@@ -384,11 +386,11 @@ doing x implies permanently giving up freedom y
 	- not civilization emerging in cities,
 	- but hospitality zones (confederacy, regional coalition) compressed, is a city
 
-### actual origin of structures of domination
+### 5.2. actual origin of structures of domination
 
 (again, NOT "mere existence of large human settlements" - didn't cause, and didn't make inevitable)
 
-#### hereditary aristocracies
+#### 5.2.1. hereditary aristocracies
 
 - just as likely in small or "modest-sized" groups
 	- [heroic societies](theory_of_heroic_societies.md) of Anatolian highlands
@@ -402,7 +404,7 @@ doing x implies permanently giving up freedom y
 - dynasts have to coexist with those older urban government institutions
 	- [theory of convergence between systems of violence and systems of care](theory_of_convergence_between_systems_of_violence_and_systems_of_care.md)
 
-##### Sumerian temples: those bereft of social ties (needy, slaves and POWs, kings)
+##### 5.2.1.1. Sumerian temples: those bereft of social ties (needy, slaves and POWs, kings)
 
 [Temple of Inanna](temple_of_inanna.md)
 [ • • • and skips around]
@@ -430,16 +432,16 @@ wtf are we talking about here:
 				- aka loss of first freedom, which meant increasingly loss of 2nd, and "Effacement" of third freedom
 				- women going for #3 (new cult, temple, vision of social relations) would be marked as subversive, revolutionary, maybe confronted by military
 
-##### kings and slaves are structurally the same, but on opposite ends of power spectrum
+##### 5.2.1.2. kings and slaves are structurally the same, but on opposite ends of power spectrum
 
 - no relatives / no kin
 	- kings: shouldnt', at least: rulesr of all subjects equally
 	- slaves: by definition, severing of relationships and possibility thereof too
 - so, only recognized social relationships "based on power and domination"
 
-### return to the question (not sure what we've gained in the meantime): how stuck in one form of social, and how relations based on violence and domination normalized within that form? [^4]
+### 5.3. return to the question (not sure what we've gained in the meantime): how stuck in one form of social, and how relations based on violence and domination normalized within that form? [^4]
 
-#### pre-servile institutions (Franz Steiner) and how loss of first freedom "paves way" for loss of second
+#### 5.3.1. pre-servile institutions (Franz Steiner) and how loss of first freedom "paves way" for loss of second
 
 - [Franz Steiner](franz_steiner.md) and the missing doctoral work on slavery
 - [[pre-servile institutions]]
@@ -462,7 +464,7 @@ answer to clastres and lowie question:
 
 #zw ok so if this requires POWs, and war requires … this ,maybe? is it circular?
 
-##### the charity => top-down theory
+##### 5.3.1.1. the charity => top-down theory
 
 - all these types of people (orphans, widows, mad, disabled, deformed, war captives, esp children, runaways, debtors, criminals) become "members of the chief's retinue"
 	- younger males become police-like enforcers
@@ -484,13 +486,13 @@ origins of patriarchy
 
 connection between external (largely male) violence (aka POWs, war captives) and transformation of women's status in home ?
 
-## reflections on research
+## 6. reflections on research
 
 - has been case of lumping together all "non-egalitarian" cities or societies (which is all of them, since you have to prove complete lack of structural inequality all over, according to peeps), which means grouping things that are very different
 
-### reversing polarities
+### 6.1. reversing polarities
 
-### kairos / The Event
+### 6.2. kairos / The Event
 
 [^1]:  p 494
 [^2]: p 500

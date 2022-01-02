@@ -74,5 +74,12 @@ But it doesn't relaly work. In fact, Iroquoia seems to be precisely one of those
 	- aka they are putting the breaks in the wrong place
 		- eg Agricultural Revolution
 
+- a lot of tactics are people convincing some people what other (or "everyone else)") people think (s)
+	- “What needs to be investigated, instead, might better be called the ‘myth of the myth of the noble savage’: why is it that certain Europeans began attributing such a naive position to others? ”
+	- there is a more contemporary example i can't remember
+
+- leaps like this:
+- > After all, to an outside observer, a society where everyone was exactly the same, and one where they were all so completely different as to preclude any sort of comparison, would seem equally ‘egalitarian’.[Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 73
+
 
 [^1]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 523
