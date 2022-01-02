@@ -121,7 +121,7 @@ evidence doesn't just show this ritual year as compendium, but people actually l
 
 better way to frame problem:
 
-- why (how?) possible for [[eastern woodlands]] ancestors to refute Cahokia and reorganize into free republics, but when the French tried to do it, the result was disastrous
+- why (how?) possible for [[eastern_woodlands_of_north_america]] ancestors to refute Cahokia and reorganize into free republics, but when the French tried to do it, the result was disastrous
 
 #### why did revolution-ish work for native americans but not french?
 

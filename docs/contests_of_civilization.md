@@ -8,6 +8,7 @@ date_modified: 2021-12-31
 
 # contests of civilization
 
+How to tell how people actually feel.
 
 ## 1. "Western" vs indigenous
 How would we actually see if "Western civilization" really made life better?

@@ -13,7 +13,8 @@ date_modified: Wednesday, December 29th 2021, 8:51:23 pm
 
 ## 1. Unfreezing the Ice Age: intro
 
-[- [Unfreezing the Ice Age: intro](unfreezing_the_ice_age_intro.md)](<# we don't want to speculate about periods of time during "prehistory" (last 3 million years) for which we have little to no archaeological evidence, because that speculation is likely to just perpetuate myths
+- [Unfreezing the Ice Age: intro](unfreezing_the_ice_age_intro.md)
+	- we don't want to speculate about periods of time during "prehistory" (last 3 million years) for which we have little to no archaeological evidence, because that speculation is likely to just perpetuate myths
 
 # when you don't have evidence you perpetuate myths
 

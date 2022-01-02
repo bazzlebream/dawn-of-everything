@@ -15,6 +15,7 @@ date_modified: 2021-12-31
 - it's only been avoided by setting up nation states, courts, and police which protect us from ourselves
 	- oh and also debate and self-control
 	- (Pinker associates this and  our current ideals of freedom, equality and democracy with exclusively-European "civilizing process" that led to [Age of Enlightenment](age_of_enlightenment.md)
+- **aka in order to break the cycles of warfare and violence people are forced to institute and obey courts, police, and states**
 
 ## 1. counterarguments
 - it essentially is saying: "all significant forms of human progress before the twentieth century can be attributed only to that one group of humans who used to refer to themselves as ‘the white race’ (and now, generally, call themselves by its more accepted synonym, ‘Western civilization’)"^[p 17]

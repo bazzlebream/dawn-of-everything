@@ -2,6 +2,7 @@
 aliases: 
 - Enlightenment
 - Age of Enlightenment
+- Age of Reason
 tags: 
 - "time-period"
 date_created: 2021-12-31
