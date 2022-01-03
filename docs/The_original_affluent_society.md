@@ -40,7 +40,7 @@ date_modified: 2021-12-30
 		- [Mbuti](mbuti_pygmies.md)
 		- [Hadza](east_african_hadza.md)
 
-- (See [Dawn of Everything: Ch 3: Unfreezing the Ice Age (notes)](dawn_of_everything_ch_3_unfreezing_the_ice_age.md)) for why these particular societies were used as examples in the 1960s.)[^2]
+- (See [Dawn of Everything: Ch 3: Unfreezing the Ice Age (notes)](dawn_of_everything_ch_3_unfreezing_the_ice_age_notes.md)) for why these particular societies were used as examples in the 1960s.)[^2]
 
 - 1960s time-allocation studies by anthropologists
 	- because of related fossil discoveries, it seemed like living populations could tell us something about the "original state" of human society

@@ -18,7 +18,7 @@ date_modified: 2021-12-29
 
 - [Dawn of Everything: Ch 1: Farewell to Humanity’s Childhood (notes)](dawn_of_everything_ch_1_farewell_to_humanitys_childhoodnotes.md)
 - [Dawn of Everything: Ch 2: Wicked Liberty (notes)](dawn_of_everything_ch_2_wicked_liberty_notes.md)
-- [Dawn of Everything: Ch 3: Unfreezing the Ice Age (notes)](dawn_of_everything_ch_3_unfreezing_the_ice_age.md)
+- [Dawn of Everything: Ch 3: Unfreezing the Ice Age (notes)](dawn_of_everything_ch_3_unfreezing_the_ice_age_notes.md)
 - [Dawn of Everything: Ch 4: Free People, the Origin of Cultures, and the Advent of Private Property (notes)](dawn_of_everything_ch_4_free_people_notes.md)
 - [Dawn of Everything: Ch 6: Gardens of Adonis (notes)](dawn_of_everything_ch_06_gardens_of_adonis_notes.md)
 - [Dawn of Everything: Ch 8: Imaginary Cities (notes)](dawn_of_everything_ch_08_Imaginary_Cities_notes.md)

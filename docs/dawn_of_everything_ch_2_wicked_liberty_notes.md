@@ -6,18 +6,12 @@ tags:
 - notes
 - book
 date_created: Wednesday, December 29th 2021, 6:23:29 pm
-date_modified: 2022-01-01
+date_modified: 2022-01-02
 ---
 
-# Dawn of Everything: Ch 2: Wicked Liberty (notes)
+# Dawn of Everything Ch 2 Wicked Liberty (notes)
 
-## 1. Main themes
-### 1.1. book's project
-### 1.2. how the actual question "origin of inequality" came about
-#### 1.2.1. problems with definitions of equality
-#### 1.2.2. egalitarianism different from equality?
-### 1.3. problems with engaging with indigenous sources first- or second-hand
-### 1.4. 
+## 1. 0.1.
 
 - rousseau's story about origins of social inequality ("freedoms are lost as societies grow bigger and more complex")
 	- comes about as a theoretical refutation of the [indigenous critique](indigenous_critique.md) of European institutions
@@ -27,7 +21,9 @@ date_modified: 2022-01-01
 #theme
 - indigenous critique (about freedom/autonomy/mutual aid/communism/liberty) gets twisted into one about "equality" by Turgot
 
-## 2. Rousseau didn't come up with it on his own
+#theme (from ch 3, so referring to this, chapter 2): In the last chapter, we suggested that the really insidious element of Rousseau’s legacy is not so much the idea of the ‘noble savage’ as that of the ‘stupid savage’. We may have got over the overt racism of most nineteenth-century Europeans, or at least we think we have, but it’s not unusual to find even very sophisticated contemporary thinkers who feel it’s more appropriate to compare ‘bands’ of hunter-gatherers with chimps or baboons than with anyone they’d ever be likely to meet.(p 92)
+
+# 1. Rousseau didn't come up with it on his own
 
 - Intellectual historians treat Rousseau like a [Great Man](great_man_theory_of_history.md), and like he "kicked off the debate" about social inequality
 - however, he submitted an essay on the subject, which means at least it was going on enough to have an essay contest about it
@@ -37,7 +33,7 @@ date_modified: 2022-01-01
 - history of the essay contest
 	- 1754, [[Académie des Sciences, Arts et Belles-Lettres de Dijon]]: "announced a national essay competition on the question: ‘what is the origin of inequality among men, and is it authorized by natural law?"
 
-## 3. the french academy didn't come up with this question (which is also a weird question for them to ask) out of the blue
+# 2. the french academy didn't come up with this question (which is also a weird question for them to ask) out of the blue
 
 #theme
 - why was this an appropriate question for these people?
@@ -51,7 +47,7 @@ date_modified: 2022-01-01
 		- authors of essays had tons of servants
 			- lived off patronage of dukes and bishops
 
-## 4. (not sure how to fit this in yet)
+# 3. setting the stage for how surprising it must have been when the backwater of Europe had to face all these new ideas from the New World
 
 - look at France's place in the world
 	- "shock and confusion" following Europe entering global economy relates to why "fascination with question of social inequality" new in the 1700s
@@ -63,9 +59,9 @@ date_modified: 2022-01-01
 	- Intellectuals exposed to all sorts of new ideas
 	- ultimate result is now called the [Enlightenment](age_of_enlightenment.md)
 
-## 5. the inverse arrogancies
+# 4. the inverse arrogancies
 
-### 5.1. Western thought arrogant (1)
+## 2. Western thought arrogant (1)
 
 - arrogancies of concept of [[Western thought]][^8]
 	- as if WT was "so powerful and monolithic" as a set of ideas that it couldn't be influenced by anyone who wasn't a Great Man associated with it to begin with
@@ -77,7 +73,7 @@ date_modified: 2022-01-01
 				- but rather [what are the origins of the question about the origins of social inequality](what_are_the_origins_of_the_question_about_the_origins_of_social_inequality.md)
 					- this way, we face a history of Europeans arguing about what foreign societies are like (eg [Eastern Woodlands of North America](eastern_woodlands_of_north_america.md))
 
-### 5.2. Europeans debated Americans before Enlightenment on Enlightenment themes (interlude)
+## 3. Europeans debated Americans before Enlightenment on Enlightenment themes (interlude)
 
 - specifics of this history of arguments
 	- Europeans reference debates with indigenous Americans on themes central to later Enlightenment political thought:
@@ -86,28 +82,28 @@ date_modified: 2022-01-01
 		- rationality
 		- revealed religion
 
-### 5.3. it's arrogant to think Europeans listened (2)
+## 4. it's arrogant to think Europeans listened (2)
 
 - contemporary counter-(suggestions?)
 	- indigenous people lived in a different universe or reality, as it were. Europeans reporting on their conversations were just projecting fantasies.
 	- they levy accusations of **Western arrogance** (oh, the imperialists were listening to the people they would murder, huh?)
 		- (but it is arrogance itself )
-			- Europeans definitely had conversations wtih New World inhabitants
+			- Europeans definitely had conversations with New World inhabitants
 				- lived among them, even
 				- (yes while planning/acting their destruction)
-			- Europeans in europe later, who espoused freedom and equality (which weren't really even concepts known to them decades before) claimes that the New World encounters influenced their thinking
+			- Europeans in europe later, who espoused freedom and equality (which weren't really even concepts known to them decades before) claims that the New World encounters influenced their thinking
 			- so, denying Europeans were right is denying that indigenous people eoculdn't have made an impact on history
 				- (**infantilizes non-Westerners**)
 
-### 5.4. it's infantilizing to think Americans didn't affect history (3?)
+## 5. it's infantilizing to think Americans didn't affect history (3?)
 
 - indigenous American scholars challenge the counter-(suggestions)
 	- assumpting that all "parties" to the conversations were adults who, occasionally at the least, listened to each other
 - what we'll see:
-	- indigenous Americans devleop own, consistent critique (the [indigenous critique](indigenous_critique.md)) of EUropean institutions
+	- indigenous Americans develop own, consistent critique (the [indigenous critique](indigenous_critique.md)) of European institutions
 	- critiques are taken seriously in Europe
 
-### 5.5. Europeans did hear the critique, and many responded strongly, eventually making up what would be seen as Rousseau's idea (4?)
+# 5. (Also 4.5) Europeans did hear the critique, and many responded strongly, eventually making up what would be seen as Rousseau's idea (4?)
 
 - European reception of [indigenous critique](indigenous_critique.md)
 	- very serious
@@ -119,7 +115,7 @@ date_modified: 2022-01-01
 
 (continues kind of on page 36 "the overwhelming majority still conclude …")
 
-## 6. conceptual revolution
+# 6. conceptual revolution
 
 - The terms "inequality" and "equality" weren't even really used until the 1600s. [^inequalityterm]
 - [Natural Law theory](natural_law_theory.md) took up the problem of what rights humans have merely by virtue of being human. This theorizing was necessary after conquistadors came back from the New World and people weren't totally on board with their wanton slaughter of indigenous people who posed no threat. One concept natural law theory came up with was the State of Nature, which served as a kind of imagined lifestyle of people as they were "naturally", that is, "all they had was their humanity".
@@ -143,16 +139,14 @@ Now (p 33) we're going to look at why they came to this odd conclusion
 	- natural religion?
 
 - A state of equality was not utterly inconceivable to European intellectuals before the eighteenth century. There were similar models available to people:
-	- [Middle Ages folk egalitarianism](Middle%20Ages%20folk%20egalitarianism.md)
+	- [Middle Ages folk egalitarianism](middle_ages_folk_egalitarianism.md) / [[equality before the law]][^23]
 	- [res publica](res_publica.md)
-	- "classical precedents" (but also classical precedents for the opposite)
+		- "classical precedents" (but also classical precedents for the opposite)
 - However, these few models don't explain that this became a universal assumption, of humans innocent of civilization in this state
 
-We have to return to the idea that Americans were fellow humans, which in part was because of their ability to make logical arguments in own defense.
-
+- We have to return to the idea that Americans were fellow humans, which in part was because of their ability to make logical arguments in own defense.
 - American intellectuals "played a role in this conceptual revolution"
-
-Recapitulation of the "scholarly arrogancies" from above (here on p 36)
+- Recapitulation of the "scholarly arrogancies" from above (here on p 36)
 
 #unpack  ?
 
@@ -206,7 +200,7 @@ New France
 				- [[Le Jeune]] on the [[Montagnais-Naskapi]] in 1642
 					- "the liberty of wild ass colts"
 			- outrageous that you couldn't convert wealth into power (see p 43)
-			- Jesuits apposed to freedom in principle ([[Father Lallemant]])
+			- Jesuits opposed to freedom in principle ([[Father Lallemant]])
 			- "wicked liberty of the savages"
 			- "Even finding terms to translate concepts like 'lord', 'commandment' or 'obedience' into indigenous languages was extremely difficult"
 		- [Montagnais-Naskapi](Montagnais-Naskapi)
@@ -224,7 +218,7 @@ New France
 		- the whole country might assemble to agree on the compensation due to "stay vengeance"
 
 - things to note (that i didn't mention above)
-	- some people were clearly wealth
+	- some people were clearly wealthy
 		- Wendat society not "economically egalitarian"; but this was wealth like wampum and other "political" treasures, rather than economic resources, like land, which was owned by families and collectives
 		- Wendat men hoarded these in order to be able to give them away
 
@@ -237,10 +231,11 @@ Wendat didn't have way to do that with land/agricultural products, or wampus-sty
 
 #subchapter *in which we show how Europeans learned from (native) Americans about the connection between reasoned debate, personal freedoms and the refusal of arbitrary power* ^[pp 44-48]
 
-## 7. defining equality in two senses
-[two_definitions_of_equality](two_definitions_of_equality.md)
+# 7. defining equality in two senses
 
-## 8. why the Enlightenment is associated with a certain talking style
+[two definitions of equality](two_definitions_of_equality.md)
+
+# 8. why the Enlightenment is associated with a certain talking style
 
 - why were Americans so good at debating (p 45) (or … persuading)
 	- Jesuits saw intrinsic relations between "refusal of arbitrary powers" and "open political debate"
@@ -304,7 +299,7 @@ class between very different concepts of **individualism**
 
 #subchapter *in which we introduce the Wendat philosopher-statesman Kandiaronk, and explain how his views on human nature and society took on new life in the salons of enlightenment Europe (including an aside on the concept of ‘schismogenesis’)* ^[pp 48-59]
 
-## 9. proto-Enlightenment salons with Kandiaronk (aka yeah Lahontan's accounts were really quoting Kandiaronk)
+# 9. proto-Enlightenment salons with Kandiaronk (aka yeah Lahontan's accounts were really quoting Kandiaronk)
 
 - story of [Lahontan](Lahontan.md) and [Kandiaronk](Kandiaronk.md)
 	- [Curious Dialogues with the Savage of Great Wisdom Who Has Traveled](Curious_dialogues_with_a_savage_of_great_wisdom_and_sense_who_has_traveled.md)
@@ -317,7 +312,8 @@ class between very different concepts of **individualism**
 		- [[Barbara Alice Mann]]: "excellent reason for accepting them as genuine"
 - [[Count de Frontenac]] proto-Enlightenment salon, Kandiaronk as rational sceptic
 
-### 9.1. new move: "organization of private property" enters into things[^11] = theme (translate wealth into power) || also, equality finally articulated?
+## 6. new move: "organization of private property" enters into things[^11] = theme (translate wealth into power) || also, equality finally articulated?
+
 - came from Americans observing French society up close
 
 #theme Whereas in their own societies there was no obvious way to convert wealth into power over others (with the consequence that differences of wealth had little effect on individual freedom), in France the situation could not have been more different. Power over possessions could be directly translated into power over other human beings.[^12]
@@ -327,7 +323,8 @@ class between very different concepts of **individualism**
 
 just because Kandiaronk and his assertions are exaggerated, don't mean he's a projection of fantasy[^13]
 
-### 9.2. schismogenesis
+## 7. schismogenesis
+
 - [schismogenesis](schismogenesis), but considered inter-society (that is, between societies rather than within a society)
 	- people define selves against neighbors
 		- urbanites vs barbarians
@@ -338,7 +335,7 @@ just because Kandiaronk and his assertions are exaggerated, don't mean he's a pr
 	- two contradictory processes:
 		- people on both sides learn from each other, adopt ideas, habits, technologies
 		- pick out certain points of contrast and exaggerate or idealize them (trying to act as little like each other as possible)
-			- eg. Kandiaroni's focus on money [^14]; modern day indigenous societies frame tradition by opposition to "living in the way of money"
+			- eg. Kandiaroni's focus on money ;[^14] modern day indigenous societies frame tradition by opposition to "living in the way of money"
 
 - ???
 	- kandiaronk translated into most European languages, and in print for over 100 years
@@ -363,7 +360,7 @@ just because Kandiaronk and his assertions are exaggerated, don't mean he's a pr
 - [A. R. J. Turgot](Turgot.md) thought it was dangerous thinking
 - [[response letter]]
 	- we all love freedom and equality in principle (I guess he started off using both?)
-	- in reality, freedom and equality of savages is sign of inferiority
+	- in reality, freedom and equality of savages is sign of inferiority[^24]
 		- only possible where each household self-sufficient, and everyone equally poor
 	- as societies evolve, tech advances
 	- complex divisions of labor arise from individual differences
@@ -377,17 +374,17 @@ just because Kandiaronk and his assertions are exaggerated, don't mean he's a pr
 	- primacy of tech progress as driver for overall social improvement
 - [[lectures on world history]]
 	- developed argument into explicit [theory of stages of economic development](turgot_theory_of_history.md)
-	- thus, theories of social evolution emerged as "direct response to ... indigenous critique"
+	- thus, theories of social evolution emerged as "direct response to … indigenous critique"
 - soon:
 	- [Adam Smith](adam_smith.md) using these four stages in own lectures
 	- in [[Scottish Enlightenment general theory of human history]] by Lord Kames, Adam Ferguson, John Millar
-	- affected how Europeans thought of indigenous people
-	- changed from:
-		- people used to not think modes of subsistence and division of labor were very important
-		- now thought that they were all that mattered
-	- sort everyone on evolutionary ladder, depending on how they got food
-		- puts egalitarian socieities at the bottom
-		- can't be "equal parties" to considering how wealthy societies should act
+	- **affected how Europeans thought of indigenous people**
+		- changed from:
+			- people used to not think modes of subsistence and division of labor were very important
+			- now thought that they were all that mattered
+		- sort everyone on evolutionary ladder, depending on how they got food
+			- puts egalitarian societies at the bottom
+			- can't be "equal parties" to considering how wealthy societies should act
 
 1703-1751
 - indigenous critique
@@ -397,7 +394,7 @@ just because Kandiaronk and his assertions are exaggerated, don't mean he's a pr
 	- Indigenous critique is POWERFUL
 	- French reaction
 		- Jesuits condemn principle of freedom
-		- public and intellectuals: it's provocative and appealing! (though they may not have cared if the people themselves were genocided)
+		- public and intellectuals: it's provocative and appealing! (though they may not have cared if the people themselves were mass murdered)
 	- (once outrage then) "freedom" argument became about "equality"
 	- appeal to wisdom of savages and challenge received authority?
 	- latecomers: Turgot's notions of civilization, evolution, and progress (direct response to POWER of critique)
@@ -412,9 +409,11 @@ just because Kandiaronk and his assertions are exaggerated, don't mean he's a pr
 - did progress of art and science lead to moral progress/wealth/power, or was France's power just side effect of pathological social arrangements?
 
 Back to top:
+
 - [Discourse on Inequality](discourse_on_inequality.md) is an outlier, even at the time
 
 Coming around:
+
 - Rousseau's first essay contest: restoration of sciences and arts contributed to moral improvement?
 	- Rousseau 1st prize [[Discourse on the arts and sciences - Rousseau (1750)]]
 		- "they have not"
@@ -422,16 +421,17 @@ Coming around:
 		- civilization corrupts, getting us to value form over content
 		- examples from Greek and Roman classical sources
 			- in footnotes, hints at Americans (what's his point in this quote?)
-	- so, top honors awarded to arguments that said arts and sciences were counterproductive (from an arts and sciences academy)
+	- in other words, **top honors awarded to argument that said arts and sciences were counterproductive** (from an arts and sciences academy)
 - Rousseau wrote responses to criticisms over next few years
 	- also writes opera [[The Village Soothsayer]]
 - 1754, new contest, origins of social inequality
 	- Rousseau's more elaborate treatise, and rejected for being too long
 
 G&W analyze the essay:
+
 - odd
 - doesn't argue that human society begins in idyllic innocence
-- actually argues that first humans were good, but avoided one another because they were afraid of violence (but also ... if they were solitary, they were "radically" autonomous (G&W words))
+- actually argues that first humans were good, but avoided one another because they were afraid of violence (but also … if they were solitary, they were "radically" autonomous (G&W words))
 - as a result, State of Nature humans were solitary
 	- **so, he can argue that "society" (ongoing association between individuals) was a restraint on freedom** (ie. relationships are restriction on liberty)
 	- even language was a compromise
@@ -442,7 +442,7 @@ G&W analyze the essay:
 		- Stone Age (Savagery, following language - includes Americans)
 		- Civilization (following agriculture and metallurgy)
 - parable meant to emphasize how humans accepted notion of private property at all:
-	- [...] Rousseau: first man enclosing piece of property, founded civil society and did a bad. however, though it looks like a spontaneous act, it didn't come out of nowhere, since "the idea of property, depending on many prior ideas which could only have arisen in successive stages, was not formed all at once in the human mind."
+	- […] Rousseau: first man enclosing piece of property, founded civil society and did a bad. however, though it looks like a spontaneous act, it didn't come out of nowhere, since "the idea of property, depending on many prior ideas which could only have arisen in successive stages, was not formed all at once in the human mind."
 	- when ancestors decided to divide earth, this is the "headlong into their chains" bit (Even tho they thought it would preserve their liberty)
 - #theme *?????* Rousseau asks the "how Europeans able to turn wealth into power; unequal distribution of materials goods (extant everywhere to some degree) into orders, servants, workmen, or not caring if they died?"[^16]
 ??
@@ -457,7 +457,7 @@ G&W analyze the essay:
 	- **clever compromise between contradictory positions**:
 		- elements of indigenous critique
 			- agrees with Kandioaronk that Europeans atrocious creature
-			- property is root of the problem
+			- (critique of private property) property is root of the problem (i think G&W say something about this being developed through schismogenesis)
 		- biblical narrative of the Fall
 		- evolutionary states of material development
 	- BUT Rousseau can't imagine society being based on anything but property (his different from Kandiaronk)
@@ -476,41 +476,48 @@ G&W analyze the essay:
 
 #subchapter *in which we consider relationships between the indigenous critique, the myth of progress and the birth of the left* ^[pp 67-71]
 
-## 10. Rousseau and the modern Left and Right, ish
+# 10. Rousseau and the modern Left and Right, ish
 
 Rousseau blamed by conservatives after [French Revolution](french_revolution.md)
+
 	(parts of this reproduced in [Chapter 12](dawn_of_everything_ch_12_notes.md))
 	- trying to restore ancient liberty/equality lead to Inca-style totalitarianism
 	
-	
+
 Rousseau embraced by American Rev and French Rev political radicals
-- weird digression on the [[secret_order_of_the_illuminati]][^18], banned in 1785
+
+- weird digression on the [Secret Order of the Illuminati](secret_order_of_the_illuminati.md),[^18] banned in 1785
 - right-wing conspiracists "insisted" it survived, and that [the Illuminati](secret_order_of_the_illuminati.md) were behind French and Russian revolutions
-- (silly, yes, but Illuminati probably first who phrased it as a revolutionary vanguard, trained in orthodoxy, could understand and speeding up the overall direction of human history)
+- (silly, yes, but Illuminati probably first who suggested that a revolutionary vanguard, trained in orthodoxy, could understand and speed up the overall direction of human history)
 
 1750s intellectual debates are so odd because modern left/right divisions hadn't crystallized
+
 at 1776 ([[American Revolution]] times), terms "left" and "right" didn't exist (well, in that sense)
+
 only produces in that sense after French National Assembly of 1789 (respective seating areas of aristocrats and popular factions)
 
 Rousseau "wrote the founding document of the left as an intellectual project"
+
 - in combining:
 	- indigenous critique, and
 	- doctrine of progress (originally) developed to counter it
 
 Right-wing thought:
+
 - suspicious of idea of progress
 - tradition emerging from indigenous critique
-- ... what's happening here
+- … what's happening here
 
-... not sure how to integrate ---> 
+… not sure how to integrate --->
 
-- racist denigration of savage and naive celebration of savage innocence, traded like two sides of same (imperialist) coin
+- [racist denigration of savage] and [naive celebration of savage innocence], treated like two sides of same (imperialist) coin
 - however, originally this (?) was right-wing position
-	- [[Ter Ellingson]]
-		- never was a noble savage myth (not in sense of stereotype of simple societies living in age of happy promordial innocence)
-		- rather travellers were ambivalent: alien societies were complicated, incoherent, mixes of bad and good
+	- [[Ter Ellingson]] [[The myth of the noble savage]]
+		- never was a noble savage myth (not in sense of stereotype of simple societies living in age of happy primordial innocence)
+		- rather travelers were ambivalent: alien societies were complicated, incoherent, mixes of bad and good
 
 should investigate: myth of "the myth of the noble savage"
+
 - why did Europeans attribute such a naive position to others/
 - "noble savage" popularized after 1859, as a slur, deployed by outright racists who took over British Ethnological Society and called for genocide of inferior people
 	- these guys blamed Rousseau (for coming up with the term?)
@@ -522,7 +529,7 @@ should investigate: myth of "the myth of the noble savage"
 		- both are equally passionate, enthusiastic, anarchists with ignoble motives and bereft of moral sensibility
 			- they imagine themselves persecuted minorities, indignant about suffering, and calls to arms
 			- he attributes to property all evils
-	- Ellingson: 
+	- Ellingson:
 		- wtf is Chinard talking about? he basically thinks there's an anarchist plot organized by Lahontan, the Jesuits, and Rousseau
 			- Jesuits: made us think well of "savages"
 				- (which the state and religion didn't want?)
@@ -531,37 +538,40 @@ should investigate: myth of "the myth of the noble savage"
 			- the only thing that matters are the motives of white people and, of those three, they were "malcontents and troublemakers"
 
 wtf is going on here
-(right-wing critique morphed into left-wing critique?)
 
+(right-wing critique morphed into left-wing critique?)
 
 #subchapter *beyond the ‘myth of the stupid savage’ (why all these things matter so much for our project in this book)* ^[pp 71-77]
 
-## 11. reluctance to engage with indigenous sources (pushing them into conceptual space where judgments no longer threatening)
+# 11. reluctance to engage with indigenous sources (pushing them into conceptual space where judgments no longer threatening)
 
 - #tidbit "To say Mi’kmaq thought is unimportant would be racist; to say it’s unknowable because the sources were racist, however, does rather let one off the hook"
 - but also based on legitimate protests of the romanticized (ie the indigenous)[^19]
 
-### 11.1. more imaginative or not imaginative?
+## 8. more imaginative or not imaginative?
+
 - Rousseau sidestepped the question (of the essay: what are the origins of social inequality?) by "reducing his savages to mere thought experiments"
 	- notably didn't write one of the dialogues-looking-at-europe-from-indigenous-critique
 	- savages don't have any imaginative powers at all
 		- they are solitary loners who don't want relationships?
 		- and can't project into future in any way
 		- have no philosophy
-		- presumably why no one forsaw how horrible things would be when they divided up property
+		- presumably why no one foresaw how horrible things would be when they divided up property
 - [Pierre Clastres](pierre_clastres.md): the opposite is the case
 	- simple people are actually more imaginative
 		- we can't picture a free society, but they have no problem picturing arbitrary power
 		- "he did more to reverse the damage than anyone before or since"
 
-### 11.2. Rousseau's legacy?
+## 9. Rousseau's legacy?
+
 - didn't actually promote "noble savage" myth
 - promulgated "myth of the stupid (if blissful) savage" (their new term)
 	- adopted by 19th century imperialists, who added "scientific" justifications to elaborate on what "innocent simplicity" meant => pushing them into conceptual space where judgements no longer threatening
 		- Darwinian evolutionism
 		- "scientific" racism
 
-## 12. problems with defining equality?
+# 12. problems with defining equality?
+
 - it is still completely unclear what "egalitarian" means (and "equal")
 - instead, let's examine why it's used
 	- NOT because it has analytical substance (it doesn't)
@@ -569,63 +579,13 @@ wtf is going on here
 		- "egalitarian" people are those WITHOUT the most obvious tokens of inequality (princes, judges, overseers, priests, cities, writing, farming)
 - so, if you're writing about the "origins of inequality", you're automatically writing about these tokens of inequality and "trappings of civilization"
 
-## 13. the project
+# 13. the project
+
 - we still want to understand how things (like the so-called signs of inequality) first came about
 - however, we won't be treating ancestors like a "primordial human soup" in order to do that
 	- look at what they thought was important in their societies
 	- describing them as "egalitarian" tells us nothing
 - But self-conscious ideas of ‘equality’, putting equality forward as an explicit value (as opposed to an ideology of freedom, or dignity, or participation that applies equally to all) appear to have been relative latecomers to human history. And even when they do appear, they rarely apply to everyone.[^22]
-
----
-
-this is from, like, the beginning of chapter 3:
-
-## 14. “WHY EVEN VERY SOPHISTICATED RESEARCHERS STILL FIND WAYS TO CLING TO THE IDEA THAT SOCIAL INEQUALITY HAS AN ‘ORIGIN”
-
-- points DoE is arguing against:
-	- hunter-gatherers lived in a state of primordial innocence[^2]
-
-terms
-
-- **Upper Paleolithic period**: Archaeology. Roughly 50,000 to 15,000 BC, characterized by "princely" burials and grand communal buildings
-
-history of ideas
-
-- **Evolutionary Psychology**
-	- "dominance behavior is hardwired in our genes, so much so that “the moment society goes beyond tiny bands, it must necessarily take the form of some ruling over others."[^3]
-
-### 14.1. analysis of Boehm
-
-[[../boehm_christopher]]
-- evolutionary anthropologist
-- specialist in primare studies
-- his arguments:[^4]
-	- humans have instinct to engage in dom/sub behavior
-		- this instinct is inherited from simian ancestors
-		- (despite this instinct) humans are humans because they can choose to not act like that
-		- itemizes tactics to humble any pretenders to dominance
-			- these tactics don't have parallels with any primate (other than humans) behavior
-			- his sources are ethnographic accounts of existing egalitarian foraging bands
-				- eg. humans mock people for "chest-beating"
-			- bullying is / may be instinctual, but "counter-bullying" is not
-				- **[[../actuarial_intelligence]]**[^5]
-					- similar to Aristotle's definition of humans as "political animals" - it's precisely what primates can't do[^6]
-
-### 14.2. considering the implications of Boehm
-
-Boehm's point:
-
-- essence of humanity is being self-conscious political actors
-	- corollary: humans can embrace wide range of social arrangements
-	- implication: humans explored a wide range of social arrangements over history[^7]
-
-Boehm's conclusions:
-
-- all humans until recently chose to follow same arrangements, that being "strictly egalitarian"
-	- only with agriculture did humans follow hierarchy
-- "social equality" and "social inequality" did not exist as concepts
-	- [evidence]: recent survey of medieval literature finds no evidence of aequalitas or inaequalitas or cognates used to describe social relations before Columbus [^1]
-- equality/inequality terms only "enter common currency" in early 17th century (1600s) after [natural law theory](natural_law_theory.md), which arose during debates about moral and legal implications of Europe's New World discoveries
 
 [^8]: [Pinker](steven_pinker.md) is also guilty of this as pointed out in [Dawn of Everything: Ch 1: Farewell to Humanity’s Childhood (notes)](dawn_of_everything_ch_1_farewell_to_humanitys_childhoodnotes.md)
 [^inequalityterm]: - "the problem of" "the origin of social inequality" was not a problem that would have made sense to people in the [[Middle_Ages]]^[p 32]
@@ -645,3 +605,5 @@ Boehm's conclusions:
 [^20]: (as for 17th century [natural law theorists](natural_law_theory.md) speculating aboutu equality in State of Nature)
 [^21]: So is it like "Essence" compared to "Attributes?"
 [^22]: p 77
+[^23]: see [two definitions of equality](two_definitions_of_equality.md)
+[^24]: But, I guess, not in a "degenerated" sense, but in a "did not progress" sense

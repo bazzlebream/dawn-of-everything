@@ -81,5 +81,12 @@ But it doesn't relaly work. In fact, Iroquoia seems to be precisely one of those
 - leaps like this:
 - > After all, to an outside observer, a society where everyone was exactly the same, and one where they were all so completely different as to preclude any sort of comparison, would seem equally ‘egalitarian’.[Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 73
 
+- what is thought of as the normal, default state
+	- eg when it changes to "human primordial soup" without trapping of civilization
+	- when Western phil sees the rational, isolated individual as default
+
+- a kind of Piaget-an look at things:
+- > “Recall that for Lévi-Strauss, there was a clear link between seasonal variations of social structure and a certain kind of political freedom. The fact that one structure applied in the rainy season and another in the dry allowed Nambikwara chiefs to view their own social arrangements at one remove: to see them as not simply ‘given’, in the natural order of things, but as something at least partially open to human intervention. The case of the British Neolithic – with its alternating phases of dispersal and monumental construction – indicates just how far such intervention could sometimes go.” [Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 106
+
 
 [^1]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 523

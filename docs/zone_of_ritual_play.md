@@ -18,5 +18,10 @@ history as a continual series of new ideas and innovations, technical or otherwi
 
 - the concept of "refugia" (pl; "refugium", sg) seems to be apropos here
 
+## 1. examples
+> Even in the European Middle Ages, in places where monarchy was unquestioned as a mode of government, ‘Abbots of Unreason’, Yuletide Kings and the like tended to be chosen either by election or by sortition (lottery), the very forms of collective decision-making that resurfaced, apparently out of nowhere, in the Enlightenment.[^2]
+
+
 
 [^1]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md)  p 500
+[^2]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 118
