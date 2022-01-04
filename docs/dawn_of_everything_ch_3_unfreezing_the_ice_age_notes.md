@@ -37,7 +37,7 @@ date_created: 2021-12-29
 	- we don't want to make stuff up (more than we have to)
 		- because (for one) when even scientists make things up it sounds like biblical narratives or myths
 
-## 3. instead of "started the same and got different" it's more like "started completely different and ended up the same
+## 3. instead of "started the same and got different" it's more like "started completely different and ended up the same"
 
 ### 3.1. example: mitochondrial eve
 
@@ -85,7 +85,6 @@ date_created: 2021-12-29
 		- social differences
 	- so, no "original" form of human society
 - so: insights that either search for, or rely on, an "original form of human society" are myth-making, and so can be only partial, since this was never the case
-	- this includes theories like Hrdy (?)
 
 #subchapter *why the ‘sapient paradox’ is a red herring; as soon as we were human, we started doing human things*^[pp 83-86]
 
@@ -302,7 +301,7 @@ i'm not sure if they're saying that there was no cultural efflorescence 45kya, o
 		- eg now they are "complex" H-Gs
 			- (but obvi still their stage defined by mode of subsistence, and role to enact a iron law of development which only we understand)
 
-### 5.2. the penumbra (why is this here tho?) (i guess minor example of political self-consciousness? )
+### 5.2. the penumbra (why is this here tho?) (i guess minor example of political self-consciousness? ) (also a reservoir of people)
 
 - (oh, right, we'er getting into the princely burials?) (and maybe also the king's retainers?)
 - [Zone of ritual play](zone_of_ritual_play.md) but as people:
