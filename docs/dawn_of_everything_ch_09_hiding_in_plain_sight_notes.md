@@ -230,7 +230,7 @@ we can't just see this as a blip on a one-way road:
 
 #subchapter *on the case of [Tlaxcala](Tlaxcala.md), an indigenous republic that resisted the Aztec Empire then came to join forces with Spanish invaders, and how its fateful decision emerged from democratic deliberations in an urban parliament (as opposed to the dazzling effects of European technology on ‘Indian minds’) (pp 346-358)*
 
-## 4. [head]
+## 4. Tlaxcala
 
 ### 4.1. Tlaxcala was a "functioning urban democracy"
 
