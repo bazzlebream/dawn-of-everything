@@ -19,7 +19,7 @@ date_modified: 2022-01-02
 - Here we return to the matter with which we began: the European Enlightenment as the apotheosis of the principle of open and rational debate. ^[p 45]
 
 #theme
-- indigenous critique (about freedom/autonomy/mutual aid/communism/liberty) gets twisted into one about "equality" by Turgot
+- indigenous critique (about freedom/autonomy/mutual aid/communism/liberty) gets twisted into one about "equality" by [A. R. J. Turgot](Turgot.md)
 
 #theme (from ch 3, so referring to this, chapter 2): In the last chapter, we suggested that the really insidious element of Rousseau’s legacy is not so much the idea of the ‘noble savage’ as that of the ‘stupid savage’. We may have got over the overt racism of most nineteenth-century Europeans, or at least we think we have, but it’s not unusual to find even very sophisticated contemporary thinkers who feel it’s more appropriate to compare ‘bands’ of hunter-gatherers with chimps or baboons than with anyone they’d ever be likely to meet.(p 92)
 
@@ -86,7 +86,7 @@ date_modified: 2022-01-02
 
 - contemporary counter-(suggestions?)
 	- indigenous people lived in a different universe or reality, as it were. Europeans reporting on their conversations were just projecting fantasies.
-	- they levy accusations of **Western arrogance** (oh, the imperialists were listening to the people they would murder, huh?)
+	- they levy accusations of **[[Western arrogance]]** (oh, the imperialists were listening to the people they would murder, huh?)
 		- (but it is arrogance itself )
 			- Europeans definitely had conversations with New World inhabitants
 				- lived among them, even
@@ -435,7 +435,7 @@ G&W analyze the essay:
 - as a result, State of Nature humans were solitary
 	- **so, he can argue that "society" (ongoing association between individuals) was a restraint on freedom** (ie. relationships are restriction on liberty)
 	- even language was a compromise
-- (real innovation): bad news at the moment property relations emerge ("fall from grace")
+- (real innovation): bad news at the moment **property** relations emerge ("fall from grace")
 - his THOUGHT EXPERIMENT / PARABLE model of society:
 	- three stages (each marking moral decline)
 		- purely imaginary State of Nature (marked by isolation)
@@ -444,7 +444,7 @@ G&W analyze the essay:
 - parable meant to emphasize how humans accepted notion of private property at all:
 	- […] Rousseau: first man enclosing piece of property, founded civil society and did a bad. however, though it looks like a spontaneous act, it didn't come out of nowhere, since "the idea of property, depending on many prior ideas which could only have arisen in successive stages, was not formed all at once in the human mind."
 	- when ancestors decided to divide earth, this is the "headlong into their chains" bit (Even tho they thought it would preserve their liberty)
-- #theme *?????* Rousseau asks the "how Europeans able to turn wealth into power; unequal distribution of materials goods (extant everywhere to some degree) into orders, servants, workmen, or not caring if they died?"[^16]
+- #theme *?????* Rousseau asks "how Europeans able to turn wealth into power; unequal distribution of materials goods (extant everywhere to some degree) into orders, servants, workmen, or not caring if they died?"[^16]
 ??
 - familiar with lahontan and [Jesuit Relations (1633-1673)](jesuit_relations_1633-1673.md)
 - asks same questions
@@ -587,7 +587,7 @@ wtf is going on here
 	- describing them as "egalitarian" tells us nothing
 - But self-conscious ideas of ‘equality’, putting equality forward as an explicit value (as opposed to an ideology of freedom, or dignity, or participation that applies equally to all) appear to have been relative latecomers to human history. And even when they do appear, they rarely apply to everyone.[^22]
 
-[^8]: [Pinker](steven_pinker.md) is also guilty of this as pointed out in [Dawn of Everything: Ch 1: Farewell to Humanity’s Childhood (notes)](dawn_of_everything_ch_1_farewell_to_humanitys_childhoodnotes.md)
+[^8]: [Pinker](steven_pinker.md) is also guilty of this as pointed out in [Dawn of Everything: Ch 1: Farewell to Humanity’s Childhood (notes)](dawn_of_everything_ch_1_farewell_to_humanitys_childhood_notes.md)
 [^inequalityterm]: - "the problem of" "the origin of social inequality" was not a problem that would have made sense to people in the [[Middle_Ages]]^[p 32]
 	- ranks and hierarchies existed since "the very beginning"
 	- even in Eden, Adam outranked Eve

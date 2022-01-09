@@ -4,7 +4,10 @@ hide: false
 search: true
 sidebar: true
 aliases:
+- "any institution that claims a monopoly on the legitimate use of coercive force within a given territory"
 tags:
+- definition
+- theory
 date_created: 2021-12-25 02:43:16
 date_modified: 2021-12-25 02:43:16
 ---

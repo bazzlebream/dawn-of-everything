@@ -16,7 +16,7 @@ date_modified: 2021-12-23 02:16:28
 # david wengrow
 
 
-## twitter reading
+## 1. twitter reading
 
 [Humanity is not trapped in a deadly game with the Earth – there are ways out | David Wengrow | The Guardian](https://www.theguardian.com/commentisfree/2021/oct/31/man-not-trapped-in-deadly-game-with-earth-there-are-ways-out)
 

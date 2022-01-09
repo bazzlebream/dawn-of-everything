@@ -45,3 +45,4 @@ let's look at that section in DoE
 [^1]: i'm not an expert so i dont' know what the previous time was, or what that means about this one
 [^2]: I don't know what CK means by "complain" here
 [^3]: [The dawn of everything](dawn_of_everything_graeber_wengrow.md) p 128
+

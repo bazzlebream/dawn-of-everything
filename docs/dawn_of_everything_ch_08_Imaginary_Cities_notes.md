@@ -18,13 +18,13 @@ date_modified: 2021-12-25 12:38:50
 
 # Dawn of Everything: Ch 8: Imaginary Cities (notes) pp 276-327
 
-[dawn_of_everything_ch_8_attempted_summary](dawn_of_everything_ch_8_attempted_summary.md)
+[dawn_of_everything_ch_08_attempted_summary](dawn_of_everything_ch_08_attempted_summary.md)
 
-## § (chapter intro) (276-278)
+## 1. § (chapter intro) (276-278)
 
 <!-- ![](ch8_summary.md#^ab73bd) --> 
 
-### ¶ (intro) (276)
+### 1.1. ¶ (intro) (276)
 
 - [Canetti's theory of invisible crowds](canetti_theory_invisible_crowds.md) is related to the idea that very large social units are always imaginary, in a certain sense
 - what does this mean?
@@ -34,7 +34,7 @@ date_modified: 2021-12-25 12:38:50
 #aside much of social theory "can be seen" as an attempt to square these two "dimensions" of our experience
 - see (	- [Claude Fischer](fischer_claude.md): “urbanites live in small social worlds that touch but do not interpenetrate.”) below ?
 
-### ¶ section break (276-278)
+### 1.2. ¶ section break (276-278)
 
 - this is not the case:
 	- [[theory of scaffolding]]: humans evolved in small groups, and anything large is unnatural, so we need "scaffolding" like police and social workers to make larger communities work
@@ -46,9 +46,9 @@ date_modified: 2021-12-25 12:38:50
 		- that is, [[civilization does not come as a package]]
 		- that is, urban life does not necessarily imply a particular form of political organization
 
-## § in which we first take on the notorious issue of 'scale' (278-284)
+## 2. § in which we first take on the notorious issue of 'scale' (278-284)
 
-### ¶ (intro) (278-281)
+### 2.1. ¶ (intro) (278-281)
 
 <!-- ![](ch8_summary.md#^905526)  -->
 
@@ -80,7 +80,7 @@ terminology:
 
 that said, scale (population size) does matter, just not the way we think
 
-### ¶ section break (281-283)
+### 2.2. ¶ section break (281-283)
 
 this is just adding proof that humans can think in imaginary totalities?
 
@@ -109,7 +109,7 @@ this is just adding proof that humans can think in imaginary totalities?
 		- rivers and seas important
 		- hunting and collecting of file seasonal foods in forests or marshes
 
-### ¶ section break (283-284)
+### 2.3. ¶ section break (283-284)
 
 for african material[^1]
 
@@ -119,9 +119,9 @@ for african material[^1]
 - why did cities appear in the first place?
 	- (spoiler: is it not because seasonal aggregation sites became permanent)
 
-## § in which we set the scene broadly for a world of cities, and speculate as to why they first arose (284-288)
+## 3. § in which we set the scene broadly for a world of cities, and speculate as to why they first arose (284-288)
 
-### ¶ (all) (284-288)
+### 3.1. ¶ (all) (284-288)
 
 [[early urban world]]
 - grand self-conscious statements of civic unity
@@ -141,14 +141,14 @@ civic festivals: moments when imaginary structures temporarily became tangible a
 
 - return to question:
 
-####  why did so many end up living in same space?
+#### 3.1.1. why did so many end up living in same space?
 
-##### definitely wrong answer
+##### 3.1.1.1. definitely wrong answer
 
 - (conventional answer): technological factors, cities result of Agricultural Revolution, possibility to support large populations, required states to administer
 	- or, seasonal that settled down
 
-##### better answer
+##### 3.1.1.2. better answer
 
 - [[Teotihuacan]]: peaks at 100k people, due to volcanic eruptions which drove populations to settle there
 - pattern? **environmental changes due to secondary, post-Ice Age ecological shuffling**
@@ -182,15 +182,15 @@ question:
 
 **- what held earliest experiments in urbanization together (like, per city) - what was the "social glue"**
 
-## § on 'mega-sites’, and how archaeological findings in Ukraine are overturning conventional wisdom on the origins of cities (288-297)
+## 4. § on 'mega-sites’, and how archaeological findings in Ukraine are overturning conventional wisdom on the origins of cities (288-297)
 
 <!-- ![](ch8_summary.md#^3e290b) -->
 
-### ¶ (intro) (contains map) [ 288-294 )
+### 4.1. ¶ (intro) (contains map) [ 288-294 )
 
 #aside: why do we assume that people who figured out how to live without horrendous things were less complex than those who haven't
 
-#### Megasites should be called cities
+#### 4.1.1. Megasites should be called cities
 
 - Black Sea (prehistory)
 	- a bunch of lavish tombs
@@ -234,7 +234,7 @@ question:
 
 - **another example that egalitarianism does not mean "simple"**
 
-### ¶ section break ( 294-297 ]
+### 4.2. ¶ section break ( 294-297 ]
 
 **how did they make collective decisions?**
 - related to (below) how to explain certain uniformities (implied: if there's no centralization)
@@ -302,9 +302,9 @@ the reality of perceived simplicity
 
 transition: let's look at Mesopotamia
 
-## § on Mesopotamia, and 'not-so-primitive’ democracy ( 297-304 )
+## 5. § on Mesopotamia, and 'not-so-primitive’ democracy ( 297-304 )
 
-### ¶ (intro) [ 297-298 )
+### 5.1. ¶ (intro) [ 297-298 )
 
 <!-- ![](ch8_summary.md#^23a89e) -->
 
@@ -317,7 +317,7 @@ transition: let's look at Mesopotamia
 - but, still the confirmation of association of ancient Mesopotamia with empire and monarchy, (late 19th to early 20th century work ), even Sumerian period
 - fortunately, modern archaeology rewrites this picture; Mesopotamia never an eternal land of kings
 
-### ¶ section break ( 298-304 ]
+### 5.2. ¶ section break ( 298-304 ]
 
 ```
 trying to answer: “what was the nature of government in Mesopotamian cities before the appearance of kingship?’ ” ? p 304
@@ -331,7 +331,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 
 [[primitive democracy]], according to modern scholars:
 
-#### so-called "primitive democracy": a description of the state of affairs
+#### 5.2.1. so-called "primitive democracy": a description of the state of affairs
 
 <!-- ![](ch8_summary.md#^41db1d) -->
 
@@ -353,7 +353,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 	- corporate bodies might also rise up successfully
 - not "primitive": institutions weren't crude or unsophisticated
 
-#### why modern scholars call this "primitive democracy" • 301
+#### 5.2.2. why modern scholars call this "primitive democracy" • 301
 
 <!-- ![](ch8_summary.md#^3921c2) -->
 
@@ -377,13 +377,13 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 - so, urbanites didn't need rules; in fact, they were autonomous self-governing units which could drive out rulers or abandon the city
 - still doesn't answer our main question here: **“what was the nature of government in Mesopotamian cities *before* the appearance of kingship?’** ” (see above)
 
-## § in which we describe how (written) history, and probably (oral) epic too, began: with big councils in the cities, and small kingdoms in the hills (305-313)
+## 6. § in which we describe how (written) history, and probably (oral) epic too, began: with big councils in the cities, and small kingdoms in the hills (305-313)
 
-### ¶ (intro) (305-306)
+### 6.1. ¶ (intro) (305-306)
 
 [zw sum]: we definitely know what royal rule looks like, and then probably non-royal-rule too, in Uruk
 
-#### Uruk
+#### 6.1.1. Uruk
 
 <!-- ![](ch8_summary.md#^0268d6) -->
 
@@ -414,7 +414,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 			- stamping names on Eanna bricks
 - (later evidence for royal rule is clear, (so we can probably guess where non-royal rule))
 
-### ¶ section break ( 306-313 ]
+### 6.2. ¶ section break ( 306-313 ]
 
 - Uruk writing: readable, but difficult to interpret
 	- cuneiform tablets from dumps
@@ -457,7 +457,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 - (today's "State sector" (public works, IR) by local or city-wide assemblies)
 - of course, no explicit idea of "economy" at the time
 
-#### Uruk Expansion
+#### 6.2.1. Uruk Expansion
 
 <!-- ![](ch8_summary.md#^fc5536) -->
 
@@ -471,11 +471,11 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 - very zealous efforts, but no real violence, weapons, fortifications
 - introduce [[principle of standardization]] rather than the novel goods themselves
 
-#### counter-reaction to Uruk Expansion (309-313]
+#### 6.2.2. counter-reaction to Uruk Expansion (309-313]
 
 "origin for ‘heroic societies’ of this sort, it is to be found precisely on the spatial and cultural margins of the world’s first great urban expansion"[^11]
 
-##### Arslantepe
+##### 6.2.2.1. Arslantepe
 
 - [[Arslantepe]]
 	- maybe started as seasonal trade fair, 3300 ft above sea level
@@ -486,7 +486,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 		- in its place, built audience chamber, living quarters, storage, armory, swords[^13] and spears (nothing like lowlands)
 		- "aesthetics of personal combat and killing"
 
-##### Rise of warrior aristocracy
+##### 6.2.2.2. Rise of warrior aristocracy
 
 - 3100 bc, evidence of more of this (warrior aristocracy stuff)
 	- armed, living in hill forts or palaces ([Beowulfian](beowulf.md) mead halls , PNC[^14] in 19th cent, Maori of New Zealand)
@@ -512,15 +512,15 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 		- reject commerce (within own societies)
 		- eschew standardized currency & embrace "unique material treasures"
 
-## § in which we consider whether the Indus civilization was an example of caste before kingship (313-321)
+## 7. § in which we consider whether the Indus civilization was an example of caste before kingship (313-321)
 
 <!-- ![](ch8_summary.md#^75f0cb) -->
 
-### ¶ (all) (313-321)
+### 7.1. ¶ (all) (313-321)
 
-#### Indus
+#### 7.1.1. Indus
 
-##### Mohenjo-Daro
+##### 7.1.1.1. Mohenjo-Daro
 
 - 2600 bc
 - [Mohenjo Daro](mohenjo_daro.md) founded
@@ -533,12 +533,12 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 - above: Upper Citadel ([Mound of the Great Bath](great_bath.md)), raised civic center
 	- encased in wall of baked bricks
 
-##### Harappa
+##### 7.1.1.2. Harappa
 
 - as large as Mohenjo-Daro
 - on [[Ravi River]]
 
-##### others
+##### 7.1.1.3. others
 
 - colonial outposts
 	- [[Shortugai]]
@@ -546,7 +546,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 - [[Lothal]]
 	- port town to service maritime trade
 
-#### Indus civilization
+#### 7.1.2. Indus civilization
 
 - own script[^16]
 - amulets
@@ -555,7 +555,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 - population: don't know (maybe 40k)
 - boundaries: not sure (100 hectares? 300 hectares?)
 
-##### civic life in the first cities of South Asia
+##### 7.1.2.1. civic life in the first cities of South Asia
 
 **insights into "is there a causal relationship between scale and inequality in human societies?"**[^17]
 - (turns out, the inequality is in levels of "purity" (pre-caste) so there's no sense in applying traditional (ie neoliberal economic) metrics to it  )
@@ -598,7 +598,7 @@ trying to answer: “what was the nature of government in Mesopotamian cities be
 - (it was a caste system without "charismatic authority figures") so, Indus civilization wasn't arcadia, and it wasn't completely peaceful
 	- #aside (briefly treat of [[priest-king]] figurine), which there are no evidence for, to prove there indeed weren't  "charismatic authority figures"[^19]
 
-####
+#### 7.1.3. ####
 
 **so, if there's no priest-kings, warrior nobility, or other state-y things, can we say it's an egalitarian city?**
 
@@ -610,7 +610,7 @@ aka, is it even possible for Indus city governance to be egalitarian if there is
 
 - aka " if the everyday governance of early Indus cities could have proceeded on egalitarian lines, alongside the existence of ascetic social orders"
 
-#### Bali's seka system (319-321]
+#### 7.1.4. Bali's seka system (319-321]
 
 - well, did something like that happen later?
 - yes:
@@ -643,13 +643,13 @@ not true just of cities, but kingdoms and empires
 		- water-temples
 		- water distribution managed by complex system of consensual decision-making by farmers
 
-## § concerning an apparent case of 'urban revolution’ in Chinese prehistory (321-327 ]
+## 8. § concerning an apparent case of 'urban revolution’ in Chinese prehistory (321-327 ]
 
 <!-- ![](ch8_summary.md#^dbeef6) -->
 
-### ¶ (intro) [ 321 )
+### 8.1. ¶ (intro) [ 321 )
 
-#### G&W summarize the preceding
+#### 8.1.1. G&W summarize the preceding
 
 - what happened when cities first appeared (3 places in Eurasia)
 	- no monarchs
@@ -658,7 +658,7 @@ not true just of cities, but kingdoms and empires
 	- other than that, pretty different from one another
 		- explicit egalitarian ethos: different forms from one another
 
-#### modalities of egalitarian ethos
+#### 8.1.2. modalities of egalitarian ethos
 
 - "self-conscious ethos of egalitarianism" has two (or, maybe, three, we'll see) modalities (which mix to different degrees in different real-life scenarios) which can be formally separated:
 	- everyone is, or should be, precisely the same, in ways we consider important
@@ -668,7 +668,7 @@ not true just of cities, but kingdoms and empires
 	- rigorous equality in certain areas, complemented by explicit hierarchy elsewhere
 		- Indus valley (a third modality?):
 
-##### table ( modalities of egalitarian ethos )
+##### 8.1.2.1. table ( modalities of egalitarian ethos )
 
 | where        | difference                              |
 | ------------ | --------------------------------------- |
@@ -676,7 +676,7 @@ not true just of cities, but kingdoms and empires
 | mohenjo-daro | no criteria to compare                  |
 | indus        | rigorous equality + hierarchy elsewhere |
 
-#### many first cities were egalitarian
+#### 8.1.3. many first cities were egalitarian
 
 <!-- ![](ch8_summary.md#^74aa96) -->
 - NOT saying "first cities were egalitarian"
@@ -684,7 +684,7 @@ not true just of cities, but kingdoms and empires
 	- in all 3 of these places (Ukraine, Uruk, Indus), increase in scale took place, but no corresponding increase in wealth concentration or elite power
 	- now, the *burden of proof is on those* who **claim a causal connection between origins of cities and rise of stratified states**
 
-### ¶ section break ( 322-327 ]
+### 8.2. ¶ section break ( 322-327 ]
 
 <!-- ![](ch8_summary.md#^33b6a3) -->
 
@@ -710,20 +710,20 @@ not true just of cities, but kingdoms and empires
 
 [ • • •]
 
-#### case of Taosi
+#### 8.2.1. case of Taosi
 
 [Taosi](Taosi.md)
 
-##### case history
+##### 8.2.1.1. case history
 
-##### case lessons
+##### 8.2.1.2. case lessons
 
 - (probably) world's first documented social revolution (in an urban setting)
 	- early cities: places of self-conscious social experimentation?
 	- clashes between different visions (peaceful, or violent)
 	- increasing number of people increases range of possibilities, but doesn't predetermine which will be selected
 
-#### transition to chapter 9
+#### 8.2.2. transition to chapter 9
 
 - #case central Mexico
 	- political urban revolutions very common

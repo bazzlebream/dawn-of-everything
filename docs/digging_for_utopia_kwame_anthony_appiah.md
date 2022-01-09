@@ -14,7 +14,7 @@ KAA on: the "indigenous critique":
 
 >  Still, our understanding of the indigenous critique would have been strengthened had they tried to determine what, for its time, was and was not distinctive in this dialogue.
 
-## Europeans did have the concept of "social inequality" before the Enlightenment, and before Kandiaronk
+## 1. Europeans did have the concept of "social inequality" before the Enlightenment, and before Kandiaronk
 
 >  then they would have had to discard the thesis that Europeans, before the Enlightenment, lacked the concept of social inequality.
 
@@ -30,12 +30,12 @@ KAA: this claim is not true [[wengrow response - concept of inequality]]
 -   why did they leave these out?
 	-   perhaps they thought it would soften the apparent newness and unusualness of Kandiaronk's thoughts
 
-## Rousseau was literal, not hypothetical, about his "how-things-turned-bad-story"
+## 2. Rousseau was literal, not hypothetical, about his "how-things-turned-bad-story"
 - G&W follow [Émile Durkheim](Durkheim_emile.md) in saying Rousseau was not being literal, given a certain sentence in the [[discourse_on_inequality]]
 - KAA follows [[A O Lovejoy]]'s interpretation that this was a mere precaution so Rousseau didn't get attacked by religious folks
 	- as evidence: [KAA paraphrasing AOL] the account is too detailed, eg metallurgy from volcano voyeurism
 
-## Rousseau's version of human history does not have the dire political implications that Hobbes' does
+## 3. Rousseau's version of human history does not have the dire political implications that Hobbes' does
 - [KAA] G&W say Rousseau's version of human history (though different from TM thinking everything great until state arose) does not have the dire political implications that Hobbes' does
 - [KAA] but actually Rousseau and Hobbes actually agreed on a critical point, that being, [ZW explicitizing implicit KAA]: things *weren't* great until the state
 	- first, JJR and TH agrees that "in the period that directly preceded the rise of the state, things were awful"
@@ -49,7 +49,7 @@ KAA: this claim is not true [[wengrow response - concept of inequality]]
 	- [KAA] and JJR said the solution was a better contract, not to return to foraging
 		- [ZW: so did JJR think foraging and hunting *was* "happy" like KAA says?]
 
-## the grain-to-state myth wasn't powerful enough to change people's minds about what's possible
+## 4. the grain-to-state myth wasn't powerful enough to change people's minds about what's possible
 - [KAA] G&W claim that the stages myth was invented to neutralize[^1] a presumably dangerous critique of European society from indigenous[^2]
 	- [KAA paraphrasing]: and it neutralized the critique by convincing people that they couldn't live without authority
 
@@ -80,11 +80,11 @@ KAA: this claim is not true [[wengrow response - concept of inequality]]
 			- [ZW exp-impl: i assume G&W]: even anarchists believe in the historical truth of the myth (shows its power to convince people of history)
 			- [KAA] even anarchists believe in the myth (shows its lack of power to change people's political views (of what's possible))
 
-### side point:
+### 4.1. side point:
 - [KAA] the perplexing inference that Rousseau’s [[discourse_on_inequality]], in this account, at once promulgated the indigenous critique and smothered it.
 - [ZW] ??? i don't know what to do with this
 
-## point
+## 5. point
 
 [KAA concession]: even if G&W are wrong about intellectual history, they could still be right about Neolithic
 
@@ -120,11 +120,11 @@ KAA: this claim is not true [[wengrow response - concept of inequality]]
 		- less a town than a festival site
 
 - [KAA]: discordance between book and its own sources 
-	- [[mohenjo_daro]]  [[Wengrow response - Kenoyer]]
+	- [Mohenjo-Daro](mohenjo_daro.md)  [[Wengrow response - Kenoyer]]
 		- [KAA cites G&W]: experts agree no evidence for nobility, or what recognize as "state"
 			- [G&W's citation]: [[Jonathan Mark Kenoyer]]
 			- [KAA] but Kenoyer actually said
-				- Mohenjo Daro was governed as city-state
+				- Mohenjo-Daro was governed as city-state
 				- unicorn seals found all over, implies officials were using them
 				- officials reinforced aspects of "Indus ruling elite"
 		- [ZW para KAA argument:]
@@ -132,7 +132,7 @@ KAA: this claim is not true [[wengrow response - concept of inequality]]
 			- there actually are in their own sources (Kenoyer)
 			- so why can't we call it a state?
 			- and if we call it a state, then there was hierarchy and administration
-			- and then it means you can't use Mohenjo Daro as example of urban settlement without hierarchy 
+			- and then it means you can't use Mohenjo-Daro as example of urban settlement without hierarchy
 	- [[Mashkan-shapir]]
 		- [KAA para G&W]
 			- even distribution of wealth there (archaeological survey)
@@ -189,12 +189,12 @@ KAA: this claim is not true [[wengrow response - concept of inequality]]
 - its argument(s) are independent of evidence
 	- [KAA para G&W] social critique references equality, but we should focus on (the three) freedoms (move, disobey, associate)
 
-## 
+## 6. 
 > the sort of inequality we mainly fret about today is of concern to its authors only inasmuch as it clashes with freedom.
 
 [zw]: i'm not sure that's true
 
-## arguments against anarchism
+## 7. arguments against anarchism
 - [[paradox of freedom to disobey]]
 	- [zw confused]: what is the paradox?
 
@@ -202,12 +202,12 @@ KAA: this claim is not true [[wengrow response - concept of inequality]]
 
 > And the worst argument to make against anarchism—against a polity without politics—is that we haven’t quite seen it up and running yet.
 
-## similarity to another book
+## 8. similarity to another book
 
-##
+## 9. ##
 - the moral argument doesn't matter with the evidence, it's about stretching imaginations
 
-## we don't have to look at the past
+## 10. we don't have to look at the past
 - [zw] but this seems to be KAA's point that he weirdly attributes to G&W, KAA quoting Rousseau: "Never mind the dawn, he was urging: we will not find our future in our past.", who [ZW para KAA] gave up the idea that his arguments had to have primordial examples of what he was proposing happen in the future
 
 

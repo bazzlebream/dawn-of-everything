@@ -88,5 +88,12 @@ But it doesn't relaly work. In fact, Iroquoia seems to be precisely one of those
 - a kind of Piaget-an look at things:
 - > “Recall that for Lévi-Strauss, there was a clear link between seasonal variations of social structure and a certain kind of political freedom. The fact that one structure applied in the rainy season and another in the dry allowed Nambikwara chiefs to view their own social arrangements at one remove: to see them as not simply ‘given’, in the natural order of things, but as something at least partially open to human intervention. The case of the British Neolithic – with its alternating phases of dispersal and monumental construction – indicates just how far such intervention could sometimes go.” [Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 106
 
+- can locate myths not just by what people say, but also what they ignore:
+	> As we’ve also seen, this way of reading history would have been quite alien to Enlightenment philosophers, who were more inclined to think their ideals of freedom and equality owed much to the peoples of the New World and were by no means certain if those ideals were at all compatible with industrial advance. We are dealing, again, with powerful modern myths. Such myths don’t merely inform what people say: to an even greater extent, they ensure certain things go unnoticed. Some of the key early sources on Tlaxcala have never even appeared in translation, and new data emerging in recent years has not really been noticed outside specialist circles. Let’s see if we can’t set the record straight.[^2]
+
+- watch out for [Special pleading - Wikipedia](https://en.wikipedia.org/wiki/Special_pleading)
+	- eg [Hiding in Plain Sight | Lapham’s Quarterly](https://www.laphamsquarterly.org/democracy/hiding-plain-sight)
+
 
 [^1]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 523
+[^2]: [Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 349

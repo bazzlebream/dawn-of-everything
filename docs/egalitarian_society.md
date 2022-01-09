@@ -1,3 +1,13 @@
+---
+aliases: 
+- egalitarian society
+tags: 
+- definition
+- theory
+date_created: 2021-12-29
+date_modified: 2021-12-29
+---
+
 # egalitarian society
 
 from [The dawn of everything](dawn_of_everything_graeber_wengrow.md):
@@ -10,6 +20,7 @@ from [The dawn of everything](dawn_of_everything_graeber_wengrow.md):
 - egalitarianism implies that ideal is "largely, realized"
 
 egalitarian society (approx def)
+
 (1) most people in a given society feel they really ought to be the same in some specific way, or ways, that are agreed to be particularly important; and
 (2) that ideal can be said to be largely achieved in practice.
 
@@ -19,6 +30,10 @@ egalitarian society (approx def)
 - obvious problem
 	- societies have radically different systems of value from one another
 		- (what's important in one might have little to do with importance in other)
-	- (ZW: not sure how this is directly connected)
+	- [‡ I'm not sure how this is directly connected]
 		- imagine society where everyone "equal before gods" (no priests) but 50% are sharecroppers with no property
 		- should we still call this "egalitarian", even if everyone, including sharecroppers, insists relation to gods is all that's important
+
+[I believe the conclusion from this is that we should be talking about freedom (in the autonomy/liberty sense)]
+
+

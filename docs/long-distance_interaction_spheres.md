@@ -14,7 +14,7 @@ date_modified: 2021-12-31
 		- excuses to visit one another
 	- rather than for the supposed efficiency of labor specialization^[For a general anthropological survey of ‘archaic trade’ the classic source remains Servet, Jean-Michel. 1981. ‘Primitive order and archaic trade. Part I.’ Economy and Society 10 (4): 423–50. —. 1982. ‘Primitive order and archaic trade. Part II.’ Economy and Society 11 (1): 22–59. ]
 	- dreams or vision quests
-	- travelling healers and entertainers
+	- traveling healers and entertainers
 		>  in 1528, when a shipwrecked Spaniard named Álvar Núñez Cabeza de Vaca made his way from Florida across what is now Texas to Mexico, he found he could pass easily between villages (even villages at war with one another) by offering his services as a magician and curer. ^[[Dawn of everything](dawn_of_everything_graeber_wengrow.md) p 23]
 	- women's gambling
 	- kula chains in [Massim Islands](massim_islands.md)

@@ -8,7 +8,11 @@ date_modified: 2021-12-31
 ---
 
 # Argonauts of the Western Pacific
-- source: 
+
+
+
+
+- source: ![](public/Malinowski%20,%20Bronislaw%20Argonauts%20of%20the%20Western%20Pacific%20An%20Account%20of%20Native%20Enterprise%20and%20Adventure%20in%20the%20Archipelagoes%20of%20Melanesian%20New%20Guinea%20%201978.pdf)
 - "the founding text of twentieth-century ethnography"
 - by [Bronisław Malinowski](bronislaw_malinowski.md)
 

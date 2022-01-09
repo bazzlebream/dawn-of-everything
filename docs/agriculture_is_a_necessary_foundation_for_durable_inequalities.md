@@ -20,7 +20,7 @@ date_modified: 2021-12-30
 		- or they are in transition, "on the way" to becoming farmers
 
 ## 1. possible responses
-> Foragers are **populations which don’t rely on biologically domesticated plants and animals as their primary sources of food.** Therefore, if it becomes apparent that a good number of them have in fact possessed complex systems of land tenure, or worshipped kings, or practised slavery, 
+> Foragers are **populations which don’t rely on biologically domesticated plants and animals as their primary sources of food.** Therefore, if it becomes apparent that a good number of them have in fact possessed complex systems of land tenure, or worshiped kings, or practiced slavery, 
 > - **this altered picture of their activities doesn’t somehow magically turn them into ‘proto-farmers’**. 
 > - Nor does it justify the invention of endless sub-categories like ‘complex’ or ‘affluent’ or ‘delayed-return’ hunter-gatherers
 	> - which is simply another way of ensuring such peoples are kept in what the Haitian anthropologist [[Michel-Rolph Trouillot]] called the ‘[[savage slot]]’, their **histories defined and circumscribed by their mode of subsistence** – as if they were people who really ought to be lazing around all day, but for some reason got ahead of themselves.
