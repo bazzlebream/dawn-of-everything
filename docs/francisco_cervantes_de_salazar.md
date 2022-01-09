@@ -18,7 +18,7 @@ date_modified: 2022-01-07
 	- took holy orders
 
 ## 1. general history of New Spain (1558-1563)
-- 1558, Municipality of Mexico gives him stipend of 200 pesos to support writing general history of New Spain ([[cronica_de_la_nueva_españa]])
+- 1558, Municipality of Mexico gives him stipend of 200 pesos to support writing general history of New Spain ([[cronica_de_la_nueva_espana]])
 - probably went to [Tlaxcala](Tlaxcala.md) in 1560 to do research
 - had to update the Municipality every three months
 	- was censored in 1563  by the General Inquisitor 

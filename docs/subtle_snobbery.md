@@ -20,7 +20,7 @@ date_modified: 2022-01-07
 
 treatment of:
 
-- [Crónica](cronica_de_la_nueva_españa.md)
+- [Crónica](cronica_de_la_nueva_espana.md)
 - [[Tlaxcalan Actas]]
 
 - naive romanticism / noble savage mything / condemnation

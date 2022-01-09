@@ -23,7 +23,7 @@ date_modified: 2021-12-29
 - [Dawn of Everything: Ch 6: Gardens of Adonis (notes)](dawn_of_everything_ch_06_gardens_of_adonis_notes.md)
 - [Dawn of Everything: Ch 8: Imaginary Cities (notes)](dawn_of_everything_ch_08_Imaginary_Cities_notes.md)
 	- [Dawn of Everything: Ch 8: Imaginary Cities (summary)](dawn_of_everything_ch_08_attempted_summary.md)
-- [Dawn of Everything: Ch 9: Hiding in plain sight (notes)](dawn_of_everything_ch_09_notes.md)
+- [Dawn of Everything: Ch 9: Hiding in plain sight (notes)](dawn_of_everything_ch_09_hiding_in_plain_sight_notes.md)
 - [Dawn of Everything: Ch 10: Why the State Has No Origin (notes)](dawn_of_everything_ch_10_why_the_state_has_no_origin_notes.md)
 
 ## 2. reading group

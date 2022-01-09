@@ -13,5 +13,4 @@ contributors
 - translated by Margaret Cook
 
 
-
-![source](public/Ioan%20P.%20Couliano%20-%20Eros%20and%20Magic%20in%20the%20Renaissance%20(Chicago%20Original%20Paperback)-University%20Of%20Chicago%20Press%20(1987).pdf)
+[couliano_eros_and_magic_in_the_renaissance_source](couliano_eros_and_magic_in_the_renaissance_source.md)

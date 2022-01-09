@@ -1,12 +1,14 @@
 ---
 aliases: 
 - Crónica
+- Crónica de la nueva España
 tags: 
+- book
 date_created: 2022-01-07
-date_modified: 2022-01-07
+date_modified: 2022-01-08
 ---
 
-# cronica_de_la_nueva_españa
+# Crónica de la nueva España
 
 - sections of governing council of Tlaxcala
 - deliberations over whether to ally with Spanish invaders

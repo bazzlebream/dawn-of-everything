@@ -3,7 +3,7 @@ aliases:
 - The mediation of emotions
 tags: 
 date_created: 2022-01-05
-date_modified: 2022-01-05
+date_modified: 2022-01-08
 ---
  
 
@@ -12,4 +12,5 @@ date_modified: 2022-01-05
 contributors:
 
 -[[Marilyn Strathern]]
-![](public/strathern%20mediation%20of%20emotions.pdf)
+
+[strathern_mediation_of_emotions_source](strathern_mediation_of_emotions_source.md)

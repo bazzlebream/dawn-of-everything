@@ -10,13 +10,12 @@ tags:
 - book
 - notes
 date_created: 2021-12-24 07:49:50
-date_modified: 2022-01-07
+date_modified: 2022-01-08
 ---
 
 # Dawn of Everything: Ch 9: Hiding in plain sight (notes)
 
 #subchapter *The indigenous origins of social housing and democracy in the Americas* (p 328-333)
-
 
 (historically early, but mentioned interspersed)
 - [[Olmec]]
@@ -262,7 +261,7 @@ we can't just see this as a blip on a one-way road:
 - obviously Cortés couldn't have defeated Aztec Empire without the help of 20,000 Tlaxcala warriors
 - so: why did [Tlaxcalteca](Tlaxcalteca.md) decide to join him?
 	- settle old scores:
-		- end to fights with [Aztec Triple Alliance](Tripartite%20Alliance.md) and [[Flowery Wars]] between [[Valley of Puebla]] and [[Valley of Mexico]]
+		- end to fights with [Aztec Triple Alliance](tripartite_alliance.md) and [[Flowery Wars]] between [[Valley of Puebla]] and [[Valley of Mexico]]
 		- sources mostly from Aztec elites, who would obviously have an interest in downplaying the real threat Tlaxcalteca posed
 			- actually, Tlaxcala and its [[Otomí guerilla units]] had resisted Aztecs for generations; this resistance was military but also an ethos directly opposed to emergence of leaders and Aztec-style social structure
 
@@ -280,8 +279,8 @@ we can't just see this as a blip on a one-way road:
 		- [[Bernal Díaz]]
 		- [[Diego Muñoz Camargo]]
 		- [[Toribio of Benavente]]
-		- [Francisco Cervantes de Salazar](francisco_cervantes_de_salazar.md) and the [cronica_de_la_nueva_españa](cronica_de_la_nueva_españa.md)
-			- despite some objections from scholars, it doesn't fall into the [Western arrogance](Western%20arrogance) bucket; rich descriptions of people and institutions; don't sound like classical sources, which it would have if he was writing just his sublimated training; corroborated by first-hand accounts
+		- [Francisco Cervantes de Salazar](francisco_cervantes_de_salazar.md) and the [Crónica de la nueva España](cronica_de_la_nueva_espana.md)
+			- despite some objections from scholars, it doesn't fall into the [western_arrogance](western_arrogance.md) bucket; rich descriptions of people and institutions; don't sound like classical sources, which it would have if he was writing just his sublimated training; corroborated by first-hand accounts
 			- it's basically ignored, or considered example of early [[Catholic humanism]]
 				- example of [[subtle_snobbery]] (to match our Western Arrogance above)
 			- † but: (making case that the recorded discussions are exactly that)
@@ -298,14 +297,15 @@ we can't just see this as a blip on a one-way road:
 			- if you wanted to be on the council, you had to go about it in self-deprecation or even shame[^21]
 				- subject to trials: exposed to abuse ("proper reward for ambition"), then isolation, fasting, sleep deprivation, bloodletting, and moral instruction[^22]
 				- then "coming out" with a celebration
-			- reminders to cultivate Chichimec qualities[^23] 
-- ‡ to the "city has to be agrarian" argument??: 
+			- reminders to cultivate Chichimec qualities[^23]
+- ‡ to the "city has to be agrarian" argument??:
 	- Tlaxcalteca saw own political values coming from desert, not farming or commerce
 	- claimed descent from [[Chichimec]]
 
 ###### 4.1.1.1.4. mimesis?
 
 ##### 4.1.1.2. archaeological findings; confirmation of indigenous republic
+
 - also confirm Tlaxcala organized different from Tenochtitlan
 	- no
 		- palace
@@ -318,6 +318,7 @@ we can't just see this as a blip on a one-way road:
 - importantly, this was *before* Cortés ever showed up
 
 #### 4.1.2. transition
+
 - Tlaxcala political traditions not an "anomaly" or "blip"
 - trend of urban development back ("in outline") to Teotihuacan urban experiments 1kya
 - Tlaxcala "at least as much a part of [Teotihacan's] legacy as the Aztec capital"
@@ -332,7 +333,7 @@ we can't just see this as a blip on a one-way road:
 [^8]: my italics
 [^9]: ‡ ie the "unscrupulous characters" from above?
 [^10]: p 336
-[^11]: [teotihuacan residential apartments](teotihuacan-%20residential%20apartments.md)
+[^11]: [teotihuacan residential apartments](teotihuacan_residential_apartments.md)
 [^12]: "In a colossal feat of civil engineering, the channels of the Rio San Juan and Rio San Lorenzo were diverted, tying them to the city’s orthogonal grid and transforming their marshy banks into solid foundations (all this, recall, without the benefit of working animals or metal tools)." (p 340)
 [^13]: † implied: "if stages were linear and inevitable…"
 [^14]: perhaps to indicate democratization of that elite structure

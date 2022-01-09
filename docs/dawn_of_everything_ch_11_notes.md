@@ -248,7 +248,7 @@ unfortunately evolutionism catches on
 
 ##### 3.1.3.1. Tripartite Alliance (461)
 
-- the ritual system, following this [[Tripartite Alliance]], accounts for most of the social differences seen in the rituals (rather than, say, hereditary rank of clans or whatever other bad thing)
+- the ritual system, following this [[tripartite_alliance]], accounts for most of the social differences seen in the rituals (rather than, say, hereditary rank of clans or whatever other bad thing)
 - northernmost alliance:
 	- funerary assemblages
 		- shamanic ritual (heroic men traveling between cosmic areas)

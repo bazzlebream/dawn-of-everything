@@ -34,7 +34,5 @@ This book is impossible to read; it literally makes things even more confusing.
 	- any attempt to find a substantive basis for "belief in the Noble Savage" plays the game defined by the construction's own rules
 
 
-
-![source](public/Ter%20Ellingson%20-%20The%20Myth%20of%20the%20Noble%20Savage-University%20of%20California%20Press%20(2001)%201.pdf)
-[Ter Ellingson](Ter%20Ellingson)
+[ter_ellingson](ter_ellingson.md)
 [^1]: p xiv

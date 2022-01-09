@@ -86,7 +86,7 @@ date_modified: 2022-01-02
 
 - contemporary counter-(suggestions?)
 	- indigenous people lived in a different universe or reality, as it were. Europeans reporting on their conversations were just projecting fantasies.
-	- they levy accusations of **[[Western arrogance]]** (oh, the imperialists were listening to the people they would murder, huh?)
+	- they levy accusations of **[[western_arrogance]]** (oh, the imperialists were listening to the people they would murder, huh?)
 		- (but it is arrogance itself )
 			- Europeans definitely had conversations with New World inhabitants
 				- lived among them, even
@@ -182,7 +182,7 @@ New France
 	- reported by [[Brother Gabriel Sagard, a Recollect Friar]] of the [Wendat](Wendat.md)
 		- "by the end of his sojourn he had come to the conclusion their social arrangements were in many ways superior to those at home in France."
 		- Wendat also looked down on French conversation[^9]
-		- influential bestseller in Franch [[Le grande voyage du pays des Hurons]]
+		- influential bestseller in French [[Le grande voyage du pays des Hurons]]
 			- cited by Locke and Voltaire
 	- reported in [[jesuit_relations_1633-1673]]
 - taken for granted that Americans in free societies, and Europeans did not
@@ -269,7 +269,7 @@ Wendat didn't have way to do that with land/agricultural products, or wampus-sty
 
 - term: communism
 	- since early 1800s, debates about existence of something called "primitive communism"
-		- brought up [[Northeast Woodlands]] societies
+		- brought up [[northeast_woodlands]] societies
 			- (ever since [Friedrich Engels](friedrich_engels.md) used the Iroquois as a prime example of primitive communism in his [The Origin of the Family, Private Property and the State (1884)](origin_of_the_family_private_property_and_the_state_1884.md)
 	- in this period, (property regime definition) communism means communal ownership, esp of productive resources
 		- as applied to America
@@ -288,7 +288,7 @@ class between very different concepts of **individualism**
 
 - baseline communism very restricted in 17th century French
 	- squabbling
-- [Northeast Woodlands](Northeast%20Woodlands), and many societies, inconceivable to refuse a request for food
+- [northeast_woodlands](northeast_woodlands.md), and many societies, inconceivable to refuse a request for food
 	- guaranteed means to autonomous life
 	- or ensure no one subordinated to another
 	- communism **in support of** individual freedom
@@ -512,7 +512,7 @@ Right-wing thought:
 
 - [racist denigration of savage] and [naive celebration of savage innocence], treated like two sides of same (imperialist) coin
 - however, originally this (?) was right-wing position
-	- [[Ter Ellingson]] [[The myth of the noble savage]]
+	- [[ter_ellingson]] [[The myth of the noble savage]]
 		- never was a noble savage myth (not in sense of stereotype of simple societies living in age of happy primordial innocence)
 		- rather travelers were ambivalent: alien societies were complicated, incoherent, mixes of bad and good
 
